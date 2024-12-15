@@ -1,0 +1,147 @@
+----------------------------------------------- 2024-11-03 10:24:59:22.669
+UDP message sent (525 bytes):
+
+INVITE sip:6002@192.168.159.1:5060 SIP/2.0
+Via: SIP/2.0/UDP 192.168.159.128:5060;branch=z9hG4bK-3852-1-0
+From: sipp <sip:666@192.168.159.128:5060>;tag=1
+To: sut <sip:6002@192.168.159.1:5060>
+Call-ID: 1-3852@192.168.159.128
+CSeq: 1 INVITE
+Contact: sip:666@192.168.159.128:5060
+Max-Forwards: 70
+Subject: Performance Test
+Content-Type: application/sdp
+Content-Length:   143
+
+v=0
+o=user1 53655765 2353687637 IN IP4 192.168.159.128
+s=-
+c=IN IP4 192.168.159.128
+t=0 0
+m=audio 6000 RTP/AVP 0
+a=rtpmap:0 PCMU/8000
+
+----------------------------------------------- 2024-11-03 10:24:59:37.134
+UDP message received [261] bytes :
+
+SIP/2.0 100 Trying
+Via: SIP/2.0/UDP 192.168.159.128:5060;received=192.168.159.128;branch=z9hG4bK-3852-1-0
+Call-ID: 1-3852@192.168.159.128
+From: "sipp" <sip:666@192.168.159.128>;tag=1
+To: "sut" <sip:6002@192.168.159.1>
+CSeq: 1 INVITE
+Content-Length:  0
+
+
+----------------------------------------------- 2024-11-03 10:24:59:670.771
+UDP message received [437] bytes :
+
+SIP/2.0 180 Ringing
+Via: SIP/2.0/UDP 192.168.159.128:5060;received=192.168.159.128;branch=z9hG4bK-3852-1-0
+Call-ID: 1-3852@192.168.159.128
+From: "sipp" <sip:666@192.168.159.128>;tag=1
+To: "sut" <sip:6002@192.168.159.1>;tag=16ba2560eaf949c8901b70a9b20120a1
+CSeq: 1 INVITE
+Contact: <sip:6002@192.168.159.1:5060>
+Allow: PRACK, INVITE, ACK, BYE, CANCEL, UPDATE, INFO, SUBSCRIBE, NOTIFY, REFER, MESSAGE, OPTIONS
+Content-Length:  0
+
+
+----------------------------------------------- 2024-11-03 10:25:04:600.966
+UDP message received [735] bytes :
+
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.159.128:5060;received=192.168.159.128;branch=z9hG4bK-3852-1-0
+Call-ID: 1-3852@192.168.159.128
+From: "sipp" <sip:666@192.168.159.128>;tag=1
+To: "sut" <sip:6002@192.168.159.1>;tag=16ba2560eaf949c8901b70a9b20120a1
+CSeq: 1 INVITE
+Allow: PRACK, INVITE, ACK, BYE, CANCEL, UPDATE, INFO, SUBSCRIBE, NOTIFY, REFER, MESSAGE, OPTIONS
+Contact: <sip:6002@192.168.159.1:5060>
+Supported: replaces, 100rel, timer, norefersub
+Content-Type: application/sdp
+Content-Length:   221
+
+v=0
+o=- 3939639899 3939639900 IN IP4 192.168.1.142
+s=pjmedia
+b=AS:84
+t=0 0
+a=X-nat:0
+m=audio 4002 RTP/AVP 0
+c=IN IP4 192.168.1.142
+b=TIAS:64000
+a=rtcp:4003 IN IP4 192.168.1.142
+a=sendrecv
+a=rtpmap:0 PCMU/8000
+
+----------------------------------------------- 2024-11-03 10:25:04:601.438
+UDP message sent (380 bytes):
+
+ACK sip:6002@192.168.159.1:5060 SIP/2.0
+Via: SIP/2.0/UDP 192.168.159.128:5060;branch=z9hG4bK-3852-1-4
+From: sipp <sip:666@192.168.159.128:5060>;tag=1
+To: sut <sip:6002@192.168.159.1:5060>;tag=16ba2560eaf949c8901b70a9b20120a1
+Call-ID: 1-3852@192.168.159.128
+CSeq: 1 ACK
+Contact: sip:666@192.168.159.128:5060
+Max-Forwards: 70
+Subject: Performance Test
+Content-Length: 0
+
+
+----------------------------------------------- 2024-11-03 10:25:06:916.415
+UDP message received [370] bytes :
+
+BYE sip:666@192.168.159.128:5060 SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.142:5060;rport;branch=z9hG4bKPj22f51fefb0c3416cb1593f113dc4bd6c
+Max-Forwards: 70
+From: "sut" <sip:6002@192.168.159.1>;tag=16ba2560eaf949c8901b70a9b20120a1
+To: "sipp" <sip:666@192.168.159.128>;tag=1
+Call-ID: 1-3852@192.168.159.128
+CSeq: 9930 BYE
+User-Agent: MicroSIP/3.6.0
+Content-Length:  0
+
+
+----------------------------------------------- 2024-11-03 10:25:06:916.926
+UDP message sent (382 bytes):
+
+SIP/2.0 401 Unauthorized
+Via: SIP/2.0/UDP 192.168.1.142:5060;rport;branch=z9hG4bKPj22f51fefb0c3416cb1593f113dc4bd6c
+From: "sut" <sip:6002@192.168.159.1>;tag=16ba2560eaf949c8901b70a9b20120a1
+To: "sipp" <sip:666@192.168.159.128>;tag=1
+Call-ID: 1-3852@192.168.159.128
+CSeq: 9930 BYE
+WWW-Authenticate: Digest algorithm=MD5, realm="asterisk",nonce="69d327e5"
+Content-Length: 0
+
+
+----------------------------------------------- 2024-11-03 10:25:06:918.800
+UDP message received [541] bytes :
+
+BYE sip:666@192.168.159.128:5060 SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.142:5060;rport;branch=z9hG4bKPjfd9bd06cba0945fc99f1919fb1f127ae
+Max-Forwards: 70
+From: "sut" <sip:6002@192.168.159.1>;tag=16ba2560eaf949c8901b70a9b20120a1
+To: "sipp" <sip:666@192.168.159.128>;tag=1
+Call-ID: 1-3852@192.168.159.128
+CSeq: 9931 BYE
+User-Agent: MicroSIP/3.6.0
+Authorization: Digest username="6002", realm="asterisk", nonce="69d327e5", uri="sip:666@192.168.159.128:5060", response="4692c571147335ba104de81cf5e9dd48", algorithm=MD5
+Content-Length:  0
+
+
+----------------------------------------------- 2024-11-03 10:25:06:919.144
+UDP message sent (354 bytes):
+
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 192.168.1.142:5060;rport;branch=z9hG4bKPjfd9bd06cba0945fc99f1919fb1f127ae
+From: "sut" <sip:6002@192.168.159.1>;tag=16ba2560eaf949c8901b70a9b20120a1
+To: "sipp" <sip:666@192.168.159.128>;tag=1;tag=1
+Call-ID: 1-3852@192.168.159.128
+CSeq: 9931 BYE
+Contact: <sip:192.168.159.128:5060;transport=UDP>
+Content-Length: 0
+
+

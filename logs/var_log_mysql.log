@@ -1,0 +1,1000 @@
+2024-09-30T19:24:57.582927Z 10 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T19:29:04.582927Z 68 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T19:31:29.582927Z 78 [Note] mysqld: Shutdown complete.
+2024-09-30T19:34:20.582927Z 26 [Note] Server socket created on IP: '::'.
+2024-09-30T19:36:05.582927Z 77 [Warning] Low available disk space detected.
+2024-09-30T19:40:35.582927Z 71 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-09-30T19:43:43.582927Z 99 [Note] InnoDB: Buffer pool(s) load completed.
+2024-09-30T19:45:08.582927Z 18 [Warning] Low available disk space detected.
+2024-09-30T19:45:32.582927Z 26 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T19:46:15.582927Z 53 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T19:48:10.582927Z 88 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T19:50:44.582927Z 10 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-09-30T19:52:18.582927Z 40 [Note] Server socket created on IP: '::'.
+2024-09-30T19:56:41.582927Z 48 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T19:58:44.582927Z 48 [Note] Server socket created on IP: '::'.
+2024-09-30T19:58:50.582927Z 0 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T19:58:58.582927Z 96 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-09-30T20:03:10.582927Z 83 [Note] mysqld: Shutdown complete.
+2024-09-30T20:03:39.582927Z 57 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-09-30T20:05:33.582927Z 56 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T20:08:07.582927Z 19 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T20:12:02.582927Z 34 [ERROR] Client was not authorized to connect.
+2024-09-30T20:16:16.582927Z 18 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T20:16:59.582927Z 6 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-09-30T20:17:57.582927Z 14 [Note] InnoDB: Buffer pool(s) load completed.
+2024-09-30T20:20:26.582927Z 65 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T20:22:34.582927Z 76 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-09-30T20:25:50.582927Z 31 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T20:28:30.582927Z 98 [ERROR] Server: Write to file failed. Check disk space!
+2024-09-30T20:32:54.582927Z 18 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T20:36:45.582927Z 19 [ERROR] Server: Write to file failed. Check disk space!
+2024-09-30T20:40:51.582927Z 38 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-09-30T20:43:53.582927Z 53 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-09-30T20:46:45.582927Z 80 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T20:50:03.582927Z 29 [Warning] Low available disk space detected.
+2024-09-30T20:50:18.582927Z 79 [Note] Server socket created on IP: '::'.
+2024-09-30T20:50:30.582927Z 76 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T20:55:10.582927Z 45 [ERROR] Client was not authorized to connect.
+2024-09-30T20:57:15.582927Z 20 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T20:58:07.582927Z 83 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T21:01:14.582927Z 27 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T21:03:25.582927Z 23 [Warning] Low available disk space detected.
+2024-09-30T21:03:44.582927Z 31 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T21:06:19.582927Z 88 [Note] mysqld: Shutdown complete.
+2024-09-30T21:06:47.582927Z 94 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-09-30T21:09:48.582927Z 38 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T21:10:41.582927Z 92 [Note] Server socket created on IP: '::'.
+2024-09-30T21:11:19.582927Z 33 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-09-30T21:14:32.582927Z 60 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-09-30T21:15:17.582927Z 76 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T21:16:24.582927Z 8 [Warning] Low available disk space detected.
+2024-09-30T21:17:18.582927Z 87 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T21:20:57.582927Z 17 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T21:25:40.582927Z 6 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T21:27:14.582927Z 42 [Note] mysqld: Shutdown complete.
+2024-09-30T21:30:54.582927Z 43 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T21:31:34.582927Z 16 [Note] InnoDB: Buffer pool(s) load completed.
+2024-09-30T21:34:11.582927Z 11 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T21:36:45.582927Z 41 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T21:38:57.582927Z 55 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-09-30T21:40:47.582927Z 5 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T21:45:30.582927Z 22 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T21:47:23.582927Z 1 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T21:47:46.582927Z 7 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-09-30T21:47:47.582927Z 95 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T21:49:12.582927Z 90 [Note] InnoDB: Buffer pool(s) load completed.
+2024-09-30T21:52:15.582927Z 68 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T21:53:35.582927Z 28 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T21:56:47.582927Z 79 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T21:59:59.582927Z 39 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T22:00:41.582927Z 38 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T22:01:51.582927Z 0 [ERROR] Server: Write to file failed. Check disk space!
+2024-09-30T22:04:43.582927Z 4 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T22:09:39.582927Z 38 [ERROR] Server: Write to file failed. Check disk space!
+2024-09-30T22:13:29.582927Z 29 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T22:14:01.582927Z 0 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T22:15:46.582927Z 48 [Note] InnoDB: Buffer pool(s) load completed.
+2024-09-30T22:20:25.582927Z 33 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-09-30T22:21:33.582927Z 95 [Note] InnoDB: Buffer pool(s) load completed.
+2024-09-30T22:24:40.582927Z 52 [ERROR] Client was not authorized to connect.
+2024-09-30T22:26:17.582927Z 69 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T22:26:40.582927Z 60 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T22:29:35.582927Z 51 [ERROR] Server: Write to file failed. Check disk space!
+2024-09-30T22:32:00.582927Z 25 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-09-30T22:33:47.582927Z 95 [Note] InnoDB: Buffer pool(s) load completed.
+2024-09-30T22:37:05.582927Z 89 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-09-30T22:38:33.582927Z 8 [Warning] Low available disk space detected.
+2024-09-30T22:39:37.582927Z 81 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T22:43:34.582927Z 41 [ERROR] Client was not authorized to connect.
+2024-09-30T22:44:36.582927Z 37 [Note] Server socket created on IP: '::'.
+2024-09-30T22:48:14.582927Z 63 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T22:51:51.582927Z 1 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-09-30T22:54:24.582927Z 91 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-09-30T22:59:11.582927Z 10 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T22:59:40.582927Z 8 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T23:03:00.582927Z 43 [Note] mysqld: Shutdown complete.
+2024-09-30T23:04:13.582927Z 31 [Warning] Low available disk space detected.
+2024-09-30T23:06:55.582927Z 78 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T23:08:33.582927Z 86 [Note] InnoDB: Starting shutdown...
+2024-09-30T23:09:43.582927Z 65 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-09-30T23:13:33.582927Z 41 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-09-30T23:14:40.582927Z 72 [ERROR] Server: Write to file failed. Check disk space!
+2024-09-30T23:15:12.582927Z 77 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-09-30T23:16:04.582927Z 71 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T23:17:09.582927Z 68 [ERROR] Client was not authorized to connect.
+2024-09-30T23:19:27.582927Z 98 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-09-30T23:22:10.582927Z 61 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T23:25:39.582927Z 10 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T23:28:35.582927Z 0 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T23:30:57.582927Z 69 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-09-30T23:34:46.582927Z 14 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T23:39:13.582927Z 11 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T23:39:22.582927Z 39 [Warning] Low available disk space detected.
+2024-09-30T23:41:37.582927Z 47 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T23:44:58.582927Z 11 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-09-30T23:45:23.582927Z 1 [Note] InnoDB: Starting shutdown...
+2024-09-30T23:46:24.582927Z 99 [ERROR] Client was not authorized to connect.
+2024-09-30T23:48:54.582927Z 57 [Warning] Low available disk space detected.
+2024-09-30T23:50:52.582927Z 28 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-09-30T23:52:32.582927Z 48 [ERROR] Server: Write to file failed. Check disk space!
+2024-09-30T23:54:41.582927Z 48 [Warning] Low available disk space detected.
+2024-09-30T23:54:44.582927Z 68 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-09-30T23:55:28.582927Z 99 [Warning] Server: CA certificate ca.pem is self signed.
+2024-09-30T23:55:59.582927Z 19 [Warning] Low available disk space detected.
+2024-09-30T23:59:56.582927Z 31 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T00:02:37.582927Z 13 [Note] mysqld: Shutdown complete.
+2024-10-01T00:06:46.582927Z 54 [ERROR] Client was not authorized to connect.
+2024-10-01T00:11:43.582927Z 25 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T00:12:02.582927Z 70 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T00:15:55.582927Z 53 [Note] Server socket created on IP: '::'.
+2024-10-01T00:16:02.582927Z 27 [Warning] Low available disk space detected.
+2024-10-01T00:19:33.582927Z 33 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T00:23:52.582927Z 94 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T00:26:50.582927Z 44 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T00:31:04.582927Z 39 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T00:32:19.582927Z 28 [Note] mysqld: Shutdown complete.
+2024-10-01T00:34:28.582927Z 73 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T00:38:20.582927Z 53 [Note] mysqld: Shutdown complete.
+2024-10-01T00:38:57.582927Z 55 [Warning] Low available disk space detected.
+2024-10-01T00:40:11.582927Z 38 [Note] Server socket created on IP: '::'.
+2024-10-01T00:41:22.582927Z 60 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T00:45:28.582927Z 4 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T00:49:24.582927Z 39 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T00:53:06.582927Z 88 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T00:56:56.582927Z 47 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T00:58:34.582927Z 3 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T01:01:42.582927Z 68 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T01:06:27.582927Z 47 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T01:09:11.582927Z 28 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T01:12:02.582927Z 53 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T01:16:44.582927Z 57 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T01:19:18.582927Z 17 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T01:23:34.582927Z 17 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T01:26:14.582927Z 52 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T01:26:55.582927Z 91 [Note] Server socket created on IP: '::'.
+2024-10-01T01:27:15.582927Z 36 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T01:27:23.582927Z 56 [Note] mysqld: Shutdown complete.
+2024-10-01T01:30:30.582927Z 55 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T01:31:52.582927Z 34 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T01:32:49.582927Z 95 [Note] InnoDB: Starting shutdown...
+2024-10-01T01:35:53.582927Z 44 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T01:37:29.582927Z 67 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T01:42:02.582927Z 5 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T01:44:54.582927Z 4 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T01:46:35.582927Z 77 [ERROR] Client was not authorized to connect.
+2024-10-01T01:48:26.582927Z 98 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T01:52:23.582927Z 18 [Warning] Low available disk space detected.
+2024-10-01T01:56:51.582927Z 49 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T02:01:06.582927Z 98 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T02:01:13.582927Z 25 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T02:04:06.582927Z 58 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T02:06:39.582927Z 46 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T02:10:15.582927Z 24 [Warning] Low available disk space detected.
+2024-10-01T02:15:05.582927Z 70 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T02:16:22.582927Z 7 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T02:18:30.582927Z 74 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T02:19:14.582927Z 42 [Note] InnoDB: Starting shutdown...
+2024-10-01T02:23:21.582927Z 6 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T02:23:52.582927Z 46 [Warning] Low available disk space detected.
+2024-10-01T02:27:19.582927Z 26 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T02:27:45.582927Z 84 [Warning] Low available disk space detected.
+2024-10-01T02:32:03.582927Z 70 [Warning] Low available disk space detected.
+2024-10-01T02:34:14.582927Z 40 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T02:39:05.582927Z 34 [ERROR] Client was not authorized to connect.
+2024-10-01T02:41:12.582927Z 7 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T02:44:55.582927Z 56 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T02:45:37.582927Z 41 [Warning] Low available disk space detected.
+2024-10-01T02:50:15.582927Z 41 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T02:55:05.582927Z 2 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T02:58:47.582927Z 18 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T03:01:44.582927Z 61 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T03:02:55.582927Z 32 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T03:07:48.582927Z 85 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T03:11:24.582927Z 34 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T03:12:21.582927Z 36 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T03:12:48.582927Z 27 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T03:14:31.582927Z 28 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T03:16:29.582927Z 87 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T03:16:44.582927Z 38 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T03:20:31.582927Z 18 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T03:25:16.582927Z 40 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T03:30:15.582927Z 55 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T03:34:14.582927Z 72 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T03:36:49.582927Z 45 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T03:39:56.582927Z 57 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T03:40:05.582927Z 61 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T03:42:40.582927Z 99 [ERROR] Client was not authorized to connect.
+2024-10-01T03:45:18.582927Z 18 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T03:48:03.582927Z 30 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T03:52:23.582927Z 58 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T03:56:25.582927Z 44 [ERROR] Client was not authorized to connect.
+2024-10-01T03:58:20.582927Z 85 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T03:58:25.582927Z 6 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T04:02:00.582927Z 94 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T04:02:24.582927Z 0 [Warning] Low available disk space detected.
+2024-10-01T04:06:29.582927Z 63 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T04:06:34.582927Z 34 [Warning] Low available disk space detected.
+2024-10-01T04:08:30.582927Z 24 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T04:09:17.582927Z 15 [ERROR] Client was not authorized to connect.
+2024-10-01T04:11:52.582927Z 84 [ERROR] Client was not authorized to connect.
+2024-10-01T04:13:05.582927Z 94 [Warning] Low available disk space detected.
+2024-10-01T04:17:02.582927Z 40 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T04:17:43.582927Z 35 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T04:22:33.582927Z 96 [Note] mysqld: Shutdown complete.
+2024-10-01T04:22:36.582927Z 89 [Note] InnoDB: Starting shutdown...
+2024-10-01T04:27:25.582927Z 42 [Warning] Low available disk space detected.
+2024-10-01T04:29:02.582927Z 88 [ERROR] Client was not authorized to connect.
+2024-10-01T04:31:07.582927Z 18 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T04:33:14.582927Z 80 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T04:37:26.582927Z 26 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T04:38:51.582927Z 9 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T04:41:01.582927Z 0 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T04:41:20.582927Z 93 [Warning] Low available disk space detected.
+2024-10-01T04:44:27.582927Z 71 [Warning] Low available disk space detected.
+2024-10-01T04:46:54.582927Z 33 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T04:51:43.582927Z 91 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T04:51:51.582927Z 3 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T04:56:10.582927Z 75 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T04:56:38.582927Z 65 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T05:01:33.582927Z 2 [Warning] Low available disk space detected.
+2024-10-01T05:04:24.582927Z 44 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T05:05:19.582927Z 88 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T05:06:44.582927Z 29 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T05:07:44.582927Z 8 [Note] InnoDB: Starting shutdown...
+2024-10-01T05:09:04.582927Z 60 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T05:10:42.582927Z 56 [ERROR] Client was not authorized to connect.
+2024-10-01T05:12:13.582927Z 97 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T05:12:20.582927Z 19 [Note] Server socket created on IP: '::'.
+2024-10-01T05:13:04.582927Z 31 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T05:17:15.582927Z 0 [Note] mysqld: Shutdown complete.
+2024-10-01T05:21:11.582927Z 37 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T05:22:44.582927Z 44 [Warning] Low available disk space detected.
+2024-10-01T05:25:11.582927Z 29 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T05:26:27.582927Z 20 [Note] Server socket created on IP: '::'.
+2024-10-01T05:27:45.582927Z 64 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T05:28:11.582927Z 58 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T05:31:18.582927Z 16 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T05:31:57.582927Z 85 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T05:36:53.582927Z 29 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T05:37:23.582927Z 75 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T05:41:03.582927Z 42 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T05:43:49.582927Z 27 [Warning] Low available disk space detected.
+2024-10-01T05:48:43.582927Z 16 [Warning] Low available disk space detected.
+2024-10-01T05:51:21.582927Z 27 [Note] InnoDB: Starting shutdown...
+2024-10-01T05:53:07.582927Z 16 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T05:55:28.582927Z 57 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T05:58:10.582927Z 98 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T05:58:24.582927Z 47 [Note] Server socket created on IP: '::'.
+2024-10-01T06:01:18.582927Z 14 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T06:03:01.582927Z 53 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T06:05:11.582927Z 43 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T06:06:06.582927Z 46 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T06:09:34.582927Z 40 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T06:14:28.582927Z 51 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T06:19:24.582927Z 25 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T06:22:17.582927Z 54 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T06:26:25.582927Z 1 [ERROR] Client was not authorized to connect.
+2024-10-01T06:31:13.582927Z 97 [Warning] Low available disk space detected.
+2024-10-01T06:31:19.582927Z 53 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T06:36:19.582927Z 43 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T06:37:31.582927Z 76 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T06:41:19.582927Z 35 [Note] InnoDB: Starting shutdown...
+2024-10-01T06:43:49.582927Z 60 [ERROR] Client was not authorized to connect.
+2024-10-01T06:48:12.582927Z 50 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T06:49:38.582927Z 83 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T06:52:37.582927Z 30 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T06:55:44.582927Z 31 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T07:00:24.582927Z 24 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T07:03:03.582927Z 83 [Warning] Low available disk space detected.
+2024-10-01T07:03:59.582927Z 54 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T07:05:01.582927Z 32 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T07:09:15.582927Z 39 [Warning] Low available disk space detected.
+2024-10-01T07:11:20.582927Z 75 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T07:12:37.582927Z 49 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T07:14:21.582927Z 74 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T07:17:13.582927Z 73 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T07:18:48.582927Z 70 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T07:22:08.582927Z 58 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T07:27:03.582927Z 15 [Note] InnoDB: Starting shutdown...
+2024-10-01T07:29:40.582927Z 40 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T07:30:14.582927Z 81 [ERROR] Client was not authorized to connect.
+2024-10-01T07:34:27.582927Z 20 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T07:34:34.582927Z 79 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T07:36:33.582927Z 84 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T07:37:11.582927Z 24 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T07:37:15.582927Z 62 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T07:41:53.582927Z 9 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T07:45:05.582927Z 28 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T07:46:31.582927Z 17 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T07:49:53.582927Z 93 [Warning] Low available disk space detected.
+2024-10-01T07:53:12.582927Z 94 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T07:53:57.582927Z 11 [Note] Server socket created on IP: '::'.
+2024-10-01T07:57:49.582927Z 97 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T07:59:19.582927Z 49 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T07:59:32.582927Z 100 [Note] mysqld: Shutdown complete.
+2024-10-01T08:00:55.582927Z 77 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T08:03:50.582927Z 27 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T08:06:56.582927Z 50 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T08:11:44.582927Z 61 [Note] Server socket created on IP: '::'.
+2024-10-01T08:16:40.582927Z 82 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T08:17:00.582927Z 32 [ERROR] Client was not authorized to connect.
+2024-10-01T08:19:10.582927Z 67 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T08:21:03.582927Z 99 [ERROR] Client was not authorized to connect.
+2024-10-01T08:22:58.582927Z 26 [Warning] Low available disk space detected.
+2024-10-01T08:24:09.582927Z 71 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T08:24:55.582927Z 78 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T08:25:06.582927Z 81 [ERROR] Client was not authorized to connect.
+2024-10-01T08:29:34.582927Z 18 [Note] InnoDB: Starting shutdown...
+2024-10-01T08:30:58.582927Z 56 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T08:35:38.582927Z 91 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T08:36:57.582927Z 2 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T08:38:18.582927Z 78 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T08:40:30.582927Z 71 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T08:41:46.582927Z 59 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T08:44:28.582927Z 93 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T08:47:42.582927Z 20 [Note] Server socket created on IP: '::'.
+2024-10-01T08:48:06.582927Z 98 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T08:50:49.582927Z 60 [Warning] Low available disk space detected.
+2024-10-01T08:54:27.582927Z 43 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T08:58:03.582927Z 52 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T08:58:28.582927Z 0 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T09:01:22.582927Z 71 [Warning] Low available disk space detected.
+2024-10-01T09:01:36.582927Z 63 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T09:01:45.582927Z 67 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T09:02:55.582927Z 49 [ERROR] Client was not authorized to connect.
+2024-10-01T09:05:57.582927Z 4 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T09:06:09.582927Z 25 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T09:08:33.582927Z 94 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T09:09:59.582927Z 97 [Note] InnoDB: Starting shutdown...
+2024-10-01T09:10:20.582927Z 24 [Warning] Low available disk space detected.
+2024-10-01T09:11:20.582927Z 64 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T09:12:40.582927Z 29 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T09:16:12.582927Z 35 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T09:17:17.582927Z 76 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T09:20:56.582927Z 41 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T09:22:22.582927Z 12 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T09:23:28.582927Z 97 [Note] Server socket created on IP: '::'.
+2024-10-01T09:28:11.582927Z 34 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T09:31:46.582927Z 16 [Warning] Low available disk space detected.
+2024-10-01T09:35:10.582927Z 6 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T09:38:19.582927Z 92 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T09:42:44.582927Z 91 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T09:43:29.582927Z 13 [ERROR] Client was not authorized to connect.
+2024-10-01T09:46:57.582927Z 66 [ERROR] Client was not authorized to connect.
+2024-10-01T09:47:40.582927Z 86 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T09:51:33.582927Z 21 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T09:55:28.582927Z 43 [Warning] Low available disk space detected.
+2024-10-01T09:56:39.582927Z 23 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T09:57:24.582927Z 70 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T09:57:45.582927Z 19 [Warning] Low available disk space detected.
+2024-10-01T09:59:24.582927Z 97 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T10:02:09.582927Z 53 [Note] Server socket created on IP: '::'.
+2024-10-01T10:04:03.582927Z 44 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T10:04:44.582927Z 14 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T10:06:30.582927Z 7 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T10:09:09.582927Z 99 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T10:12:03.582927Z 35 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T10:15:49.582927Z 67 [Note] Server socket created on IP: '::'.
+2024-10-01T10:16:49.582927Z 45 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T10:19:22.582927Z 69 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T10:24:08.582927Z 38 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T10:26:37.582927Z 4 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T10:29:54.582927Z 26 [ERROR] Client was not authorized to connect.
+2024-10-01T10:32:48.582927Z 53 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T10:33:47.582927Z 0 [ERROR] Client was not authorized to connect.
+2024-10-01T10:37:06.582927Z 95 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T10:41:09.582927Z 35 [Warning] Low available disk space detected.
+2024-10-01T10:43:55.582927Z 29 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T10:47:17.582927Z 95 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T10:49:20.582927Z 38 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T10:53:04.582927Z 86 [Note] Server socket created on IP: '::'.
+2024-10-01T10:57:15.582927Z 71 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T11:00:01.582927Z 59 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T11:01:35.582927Z 10 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T11:03:03.582927Z 70 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T11:06:45.582927Z 70 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T11:07:04.582927Z 96 [Warning] Low available disk space detected.
+2024-10-01T11:09:11.582927Z 31 [Warning] Low available disk space detected.
+2024-10-01T11:12:48.582927Z 31 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T11:13:23.582927Z 62 [Note] InnoDB: Starting shutdown...
+2024-10-01T11:14:55.582927Z 41 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T11:18:57.582927Z 97 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T11:19:40.582927Z 67 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T11:21:50.582927Z 98 [Note] mysqld: Shutdown complete.
+2024-10-01T11:21:52.582927Z 51 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T11:23:46.582927Z 30 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T11:26:31.582927Z 80 [ERROR] Client was not authorized to connect.
+2024-10-01T11:30:48.582927Z 8 [Note] InnoDB: Starting shutdown...
+2024-10-01T11:32:42.582927Z 67 [ERROR] Client was not authorized to connect.
+2024-10-01T11:34:36.582927Z 66 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T11:34:44.582927Z 25 [Note] InnoDB: Starting shutdown...
+2024-10-01T11:35:11.582927Z 25 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T11:38:27.582927Z 5 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T11:40:57.582927Z 88 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T11:43:38.582927Z 78 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T11:45:16.582927Z 75 [Note] InnoDB: Starting shutdown...
+2024-10-01T11:45:20.582927Z 86 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T11:45:43.582927Z 35 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T11:50:19.582927Z 93 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T11:53:18.582927Z 42 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T11:54:03.582927Z 89 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T11:54:55.582927Z 75 [Note] InnoDB: Starting shutdown...
+2024-10-01T11:58:17.582927Z 3 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T11:58:51.582927Z 10 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T12:00:08.582927Z 22 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T12:03:13.582927Z 11 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T12:05:37.582927Z 48 [Note] mysqld: Shutdown complete.
+2024-10-01T12:06:39.582927Z 27 [Warning] Low available disk space detected.
+2024-10-01T12:10:51.582927Z 85 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T12:15:35.582927Z 48 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T12:19:40.582927Z 72 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T12:21:13.582927Z 95 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T12:24:02.582927Z 61 [Note] Server socket created on IP: '::'.
+2024-10-01T12:28:55.582927Z 2 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T12:29:53.582927Z 86 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T12:32:26.582927Z 25 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T12:35:56.582927Z 5 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T12:37:35.582927Z 76 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T12:39:18.582927Z 63 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T12:43:29.582927Z 15 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T12:46:06.582927Z 29 [Note] Server socket created on IP: '::'.
+2024-10-01T12:46:20.582927Z 15 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T12:48:07.582927Z 47 [ERROR] Client was not authorized to connect.
+2024-10-01T12:52:42.582927Z 49 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T12:53:57.582927Z 94 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T12:57:19.582927Z 31 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T13:00:22.582927Z 39 [Warning] Low available disk space detected.
+2024-10-01T13:03:55.582927Z 92 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T13:08:46.582927Z 81 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T13:11:48.582927Z 33 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T13:15:50.582927Z 27 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T13:16:41.582927Z 2 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T13:21:20.582927Z 15 [ERROR] Client was not authorized to connect.
+2024-10-01T13:21:50.582927Z 58 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T13:26:01.582927Z 25 [Warning] Low available disk space detected.
+2024-10-01T13:26:07.582927Z 50 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T13:27:22.582927Z 83 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T13:28:50.582927Z 30 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T13:31:27.582927Z 82 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T13:36:05.582927Z 69 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T13:39:15.582927Z 54 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T13:42:53.582927Z 55 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T13:45:07.582927Z 61 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T13:49:25.582927Z 55 [Note] InnoDB: Starting shutdown...
+2024-10-01T13:49:29.582927Z 5 [Warning] Low available disk space detected.
+2024-10-01T13:53:32.582927Z 12 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T13:55:05.582927Z 59 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T13:57:50.582927Z 95 [ERROR] Client was not authorized to connect.
+2024-10-01T13:59:36.582927Z 93 [Warning] Low available disk space detected.
+2024-10-01T14:02:24.582927Z 88 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T14:02:55.582927Z 40 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T14:03:47.582927Z 33 [Warning] Low available disk space detected.
+2024-10-01T14:06:34.582927Z 88 [Warning] Low available disk space detected.
+2024-10-01T14:07:59.582927Z 84 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T14:09:41.582927Z 10 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T14:09:45.582927Z 68 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T14:11:16.582927Z 17 [Warning] Low available disk space detected.
+2024-10-01T14:15:22.582927Z 76 [Warning] Low available disk space detected.
+2024-10-01T14:19:56.582927Z 35 [Warning] Low available disk space detected.
+2024-10-01T14:22:28.582927Z 20 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T14:24:02.582927Z 11 [Warning] Low available disk space detected.
+2024-10-01T14:27:18.582927Z 12 [ERROR] Client was not authorized to connect.
+2024-10-01T14:30:36.582927Z 19 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T14:32:09.582927Z 29 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T14:35:52.582927Z 10 [Warning] Low available disk space detected.
+2024-10-01T14:39:53.582927Z 62 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T14:42:43.582927Z 17 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T14:42:59.582927Z 37 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T14:46:36.582927Z 88 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T14:47:36.582927Z 90 [Warning] Low available disk space detected.
+2024-10-01T14:47:48.582927Z 95 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T14:50:23.582927Z 15 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T14:51:43.582927Z 15 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T14:54:19.582927Z 51 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T14:58:53.582927Z 19 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T14:59:43.582927Z 5 [Note] InnoDB: Starting shutdown...
+2024-10-01T15:00:59.582927Z 24 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T15:02:41.582927Z 57 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T15:05:40.582927Z 86 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T15:08:00.582927Z 57 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T15:11:05.582927Z 13 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T15:14:36.582927Z 85 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T15:19:18.582927Z 58 [Note] mysqld: Shutdown complete.
+2024-10-01T15:19:25.582927Z 29 [Warning] Low available disk space detected.
+2024-10-01T15:20:05.582927Z 76 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T15:23:31.582927Z 3 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T15:24:41.582927Z 92 [Note] Server socket created on IP: '::'.
+2024-10-01T15:25:51.582927Z 54 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T15:28:58.582927Z 32 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T15:29:18.582927Z 60 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T15:31:25.582927Z 81 [Warning] Low available disk space detected.
+2024-10-01T15:32:42.582927Z 57 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T15:34:54.582927Z 37 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T15:36:48.582927Z 13 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T15:38:10.582927Z 100 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T15:39:04.582927Z 38 [ERROR] Client was not authorized to connect.
+2024-10-01T15:40:01.582927Z 91 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T15:41:35.582927Z 27 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T15:42:22.582927Z 22 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T15:47:11.582927Z 66 [Warning] Low available disk space detected.
+2024-10-01T15:48:56.582927Z 85 [Warning] Low available disk space detected.
+2024-10-01T15:49:33.582927Z 85 [ERROR] Client was not authorized to connect.
+2024-10-01T15:50:08.582927Z 48 [Note] InnoDB: Starting shutdown...
+2024-10-01T15:51:00.582927Z 64 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T15:54:39.582927Z 19 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T15:56:22.582927Z 12 [Note] InnoDB: Starting shutdown...
+2024-10-01T15:59:47.582927Z 96 [Note] Server socket created on IP: '::'.
+2024-10-01T16:02:23.582927Z 65 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T16:04:45.582927Z 56 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T16:05:31.582927Z 20 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T16:07:30.582927Z 88 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T16:07:43.582927Z 18 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T16:08:29.582927Z 4 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T16:09:53.582927Z 25 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T16:12:57.582927Z 44 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T16:16:33.582927Z 25 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T16:20:42.582927Z 33 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T16:21:56.582927Z 40 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T16:22:49.582927Z 85 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T16:25:11.582927Z 84 [Note] InnoDB: Starting shutdown...
+2024-10-01T16:27:36.582927Z 41 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T16:28:25.582927Z 37 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T16:30:33.582927Z 11 [Note] mysqld: Shutdown complete.
+2024-10-01T16:30:44.582927Z 35 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T16:34:20.582927Z 18 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T16:36:31.582927Z 72 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T16:41:01.582927Z 85 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T16:41:58.582927Z 38 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T16:43:23.582927Z 54 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T16:46:52.582927Z 74 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T16:50:06.582927Z 7 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T16:51:49.582927Z 32 [ERROR] Client was not authorized to connect.
+2024-10-01T16:52:05.582927Z 16 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T16:54:48.582927Z 29 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T16:59:12.582927Z 61 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T17:01:22.582927Z 81 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T17:05:06.582927Z 19 [Note] InnoDB: Starting shutdown...
+2024-10-01T17:09:42.582927Z 82 [Warning] Low available disk space detected.
+2024-10-01T17:10:46.582927Z 58 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T17:10:56.582927Z 22 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T17:12:12.582927Z 37 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T17:16:05.582927Z 69 [ERROR] Client was not authorized to connect.
+2024-10-01T17:16:24.582927Z 4 [Note] mysqld: Shutdown complete.
+2024-10-01T17:17:38.582927Z 30 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T17:19:33.582927Z 30 [Note] mysqld: Shutdown complete.
+2024-10-01T17:22:55.582927Z 73 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T17:26:46.582927Z 29 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T17:27:07.582927Z 8 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T17:31:13.582927Z 3 [Note] mysqld: Shutdown complete.
+2024-10-01T17:31:14.582927Z 21 [Note] mysqld: Shutdown complete.
+2024-10-01T17:33:02.582927Z 42 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T17:36:40.582927Z 68 [Note] mysqld: Shutdown complete.
+2024-10-01T17:37:48.582927Z 92 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T17:41:36.582927Z 14 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T17:46:23.582927Z 67 [Note] InnoDB: Starting shutdown...
+2024-10-01T17:50:36.582927Z 40 [Warning] Low available disk space detected.
+2024-10-01T17:53:47.582927Z 10 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T17:54:19.582927Z 13 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T17:59:15.582927Z 62 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T18:03:06.582927Z 19 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T18:05:15.582927Z 78 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T18:08:08.582927Z 84 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T18:12:18.582927Z 90 [Warning] Low available disk space detected.
+2024-10-01T18:15:09.582927Z 30 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T18:18:21.582927Z 7 [ERROR] Client was not authorized to connect.
+2024-10-01T18:21:11.582927Z 67 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T18:23:01.582927Z 12 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T18:26:04.582927Z 5 [Note] Server socket created on IP: '::'.
+2024-10-01T18:29:00.582927Z 78 [Note] mysqld: Shutdown complete.
+2024-10-01T18:30:51.582927Z 8 [Warning] Low available disk space detected.
+2024-10-01T18:35:21.582927Z 15 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T18:36:50.582927Z 52 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T18:39:23.582927Z 83 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T18:41:16.582927Z 0 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T18:44:25.582927Z 2 [Note] Server socket created on IP: '::'.
+2024-10-01T18:49:17.582927Z 14 [Warning] Low available disk space detected.
+2024-10-01T18:51:50.582927Z 84 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T18:54:15.582927Z 53 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T18:58:47.582927Z 100 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T18:59:59.582927Z 96 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T19:00:27.582927Z 48 [Note] mysqld: Shutdown complete.
+2024-10-01T19:05:12.582927Z 33 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T19:09:36.582927Z 87 [Warning] Low available disk space detected.
+2024-10-01T19:10:10.582927Z 68 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T19:12:31.582927Z 44 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T19:12:49.582927Z 53 [ERROR] Client was not authorized to connect.
+2024-10-01T19:12:53.582927Z 49 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T19:17:07.582927Z 3 [ERROR] Client was not authorized to connect.
+2024-10-01T19:20:33.582927Z 25 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T19:21:40.582927Z 55 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T19:24:43.582927Z 51 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T19:29:08.582927Z 40 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T19:29:13.582927Z 6 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T19:31:37.582927Z 47 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T19:33:31.582927Z 41 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T19:34:40.582927Z 100 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T19:35:37.582927Z 39 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T19:36:54.582927Z 28 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T19:39:21.582927Z 32 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T19:43:53.582927Z 36 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T19:44:34.582927Z 56 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T19:47:06.582927Z 55 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T19:49:31.582927Z 83 [Note] InnoDB: Starting shutdown...
+2024-10-01T19:53:28.582927Z 32 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T19:58:18.582927Z 51 [Warning] Low available disk space detected.
+2024-10-01T20:00:19.582927Z 75 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T20:01:11.582927Z 66 [Warning] Low available disk space detected.
+2024-10-01T20:02:13.582927Z 84 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T20:06:17.582927Z 84 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T20:09:06.582927Z 70 [Warning] Low available disk space detected.
+2024-10-01T20:11:16.582927Z 41 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T20:15:25.582927Z 51 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T20:18:52.582927Z 93 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T20:21:02.582927Z 0 [Warning] Low available disk space detected.
+2024-10-01T20:21:07.582927Z 20 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T20:25:42.582927Z 100 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T20:26:15.582927Z 53 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T20:28:54.582927Z 81 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T20:30:33.582927Z 11 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T20:31:31.582927Z 49 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T20:33:04.582927Z 30 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T20:37:22.582927Z 3 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T20:40:32.582927Z 73 [Note] Server socket created on IP: '::'.
+2024-10-01T20:42:46.582927Z 38 [ERROR] Client was not authorized to connect.
+2024-10-01T20:47:07.582927Z 56 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T20:48:44.582927Z 40 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T20:52:03.582927Z 62 [Warning] Low available disk space detected.
+2024-10-01T20:54:57.582927Z 37 [ERROR] Client was not authorized to connect.
+2024-10-01T20:59:43.582927Z 44 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T21:04:36.582927Z 6 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T21:06:13.582927Z 88 [Warning] Low available disk space detected.
+2024-10-01T21:10:44.582927Z 63 [Warning] Low available disk space detected.
+2024-10-01T21:15:43.582927Z 98 [Warning] Low available disk space detected.
+2024-10-01T21:16:35.582927Z 1 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T21:21:06.582927Z 28 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T21:24:34.582927Z 44 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T21:25:42.582927Z 2 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T21:27:37.582927Z 24 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T21:29:29.582927Z 94 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T21:30:52.582927Z 67 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T21:31:33.582927Z 72 [ERROR] Client was not authorized to connect.
+2024-10-01T21:32:13.582927Z 17 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T21:34:51.582927Z 12 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T21:35:26.582927Z 35 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T21:36:14.582927Z 40 [Warning] Low available disk space detected.
+2024-10-01T21:39:44.582927Z 18 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T21:44:33.582927Z 26 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T21:45:57.582927Z 69 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T21:46:26.582927Z 80 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T21:46:29.582927Z 35 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T21:46:32.582927Z 33 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T21:48:12.582927Z 29 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T21:51:43.582927Z 94 [Note] Server socket created on IP: '::'.
+2024-10-01T21:54:22.582927Z 80 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T21:57:53.582927Z 81 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T22:01:27.582927Z 98 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T22:03:56.582927Z 28 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T22:06:12.582927Z 24 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T22:10:59.582927Z 66 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T22:14:33.582927Z 70 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T22:14:59.582927Z 61 [Warning] Low available disk space detected.
+2024-10-01T22:15:11.582927Z 32 [Note] Server socket created on IP: '::'.
+2024-10-01T22:17:00.582927Z 11 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T22:21:01.582927Z 68 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T22:24:49.582927Z 2 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T22:27:24.582927Z 1 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T22:31:35.582927Z 63 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T22:32:41.582927Z 40 [Note] mysqld: Shutdown complete.
+2024-10-01T22:34:18.582927Z 36 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T22:38:57.582927Z 92 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T22:43:08.582927Z 33 [Warning] Low available disk space detected.
+2024-10-01T22:43:42.582927Z 46 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T22:46:52.582927Z 33 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-01T22:47:54.582927Z 42 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T22:51:31.582927Z 79 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T22:56:30.582927Z 78 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T22:59:46.582927Z 74 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-01T23:04:39.582927Z 99 [Note] Server socket created on IP: '::'.
+2024-10-01T23:06:32.582927Z 77 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T23:10:21.582927Z 42 [Note] mysqld: Shutdown complete.
+2024-10-01T23:10:42.582927Z 78 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-01T23:14:02.582927Z 25 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T23:14:21.582927Z 9 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T23:18:09.582927Z 92 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T23:19:24.582927Z 37 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T23:21:24.582927Z 27 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T23:23:32.582927Z 20 [ERROR] Client was not authorized to connect.
+2024-10-01T23:25:17.582927Z 64 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T23:29:52.582927Z 11 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-01T23:32:54.582927Z 9 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-01T23:33:02.582927Z 47 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-01T23:33:54.582927Z 21 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T23:38:19.582927Z 93 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-01T23:41:06.582927Z 76 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-01T23:44:20.582927Z 77 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T23:48:30.582927Z 34 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-01T23:51:41.582927Z 68 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-01T23:52:38.582927Z 18 [Note] Server socket created on IP: '::'.
+2024-10-01T23:56:09.582927Z 33 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-01T23:59:39.582927Z 39 [Note] InnoDB: Starting shutdown...
+2024-10-02T00:04:06.582927Z 36 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T00:05:24.582927Z 23 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T00:07:32.582927Z 36 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T00:07:45.582927Z 86 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T00:07:49.582927Z 39 [Warning] Low available disk space detected.
+2024-10-02T00:11:32.582927Z 45 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T00:13:27.582927Z 42 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T00:14:28.582927Z 93 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T00:18:05.582927Z 41 [Warning] Low available disk space detected.
+2024-10-02T00:20:04.582927Z 40 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T00:20:37.582927Z 57 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T00:23:06.582927Z 73 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T00:25:06.582927Z 99 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T00:28:16.582927Z 17 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T00:28:27.582927Z 55 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T00:30:51.582927Z 85 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T00:33:08.582927Z 88 [Note] mysqld: Shutdown complete.
+2024-10-02T00:36:55.582927Z 24 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T00:39:42.582927Z 86 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T00:42:41.582927Z 36 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T00:45:40.582927Z 98 [Warning] Low available disk space detected.
+2024-10-02T00:49:41.582927Z 27 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T00:52:53.582927Z 13 [Warning] Low available disk space detected.
+2024-10-02T00:53:27.582927Z 14 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T00:54:56.582927Z 85 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T00:57:42.582927Z 31 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T01:00:55.582927Z 42 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T01:05:53.582927Z 58 [ERROR] Client was not authorized to connect.
+2024-10-02T01:10:17.582927Z 32 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T01:11:44.582927Z 9 [ERROR] Client was not authorized to connect.
+2024-10-02T01:13:40.582927Z 13 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T01:16:19.582927Z 40 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T01:17:25.582927Z 9 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T01:21:47.582927Z 0 [Warning] Low available disk space detected.
+2024-10-02T01:24:50.582927Z 6 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T01:28:28.582927Z 79 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T01:29:14.582927Z 24 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T01:34:13.582927Z 70 [ERROR] Client was not authorized to connect.
+2024-10-02T01:36:41.582927Z 85 [Note] InnoDB: Starting shutdown...
+2024-10-02T01:39:01.582927Z 26 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T01:40:21.582927Z 33 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T01:41:58.582927Z 42 [ERROR] Client was not authorized to connect.
+2024-10-02T01:46:21.582927Z 77 [Warning] Low available disk space detected.
+2024-10-02T01:48:44.582927Z 67 [Warning] Low available disk space detected.
+2024-10-02T01:49:26.582927Z 2 [Warning] Low available disk space detected.
+2024-10-02T01:54:14.582927Z 61 [Note] mysqld: Shutdown complete.
+2024-10-02T01:54:15.582927Z 49 [ERROR] Client was not authorized to connect.
+2024-10-02T01:56:06.582927Z 65 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T02:00:45.582927Z 88 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T02:05:12.582927Z 72 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T02:05:15.582927Z 16 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T02:08:17.582927Z 73 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T02:09:54.582927Z 95 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T02:14:49.582927Z 78 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T02:16:14.582927Z 91 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T02:21:03.582927Z 32 [ERROR] Client was not authorized to connect.
+2024-10-02T02:22:08.582927Z 24 [Note] mysqld: Shutdown complete.
+2024-10-02T02:22:39.582927Z 52 [ERROR] Client was not authorized to connect.
+2024-10-02T02:23:47.582927Z 89 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T02:26:03.582927Z 25 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T02:26:13.582927Z 0 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T02:27:24.582927Z 39 [ERROR] Client was not authorized to connect.
+2024-10-02T02:28:42.582927Z 4 [ERROR] Client was not authorized to connect.
+2024-10-02T02:29:02.582927Z 45 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T02:33:16.582927Z 30 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T02:36:34.582927Z 25 [Note] Server socket created on IP: '::'.
+2024-10-02T02:36:38.582927Z 90 [Note] InnoDB: Starting shutdown...
+2024-10-02T02:38:25.582927Z 58 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T02:42:01.582927Z 21 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T02:42:41.582927Z 26 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T02:44:01.582927Z 19 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T02:48:56.582927Z 29 [Warning] Low available disk space detected.
+2024-10-02T02:51:34.582927Z 16 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T02:55:15.582927Z 7 [Note] mysqld: Shutdown complete.
+2024-10-02T02:59:25.582927Z 89 [ERROR] Client was not authorized to connect.
+2024-10-02T03:03:42.582927Z 91 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T03:06:44.582927Z 26 [ERROR] Client was not authorized to connect.
+2024-10-02T03:08:48.582927Z 38 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T03:13:39.582927Z 66 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T03:18:18.582927Z 29 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T03:21:43.582927Z 31 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T03:24:55.582927Z 53 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T03:25:17.582927Z 2 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T03:25:57.582927Z 35 [Warning] Low available disk space detected.
+2024-10-02T03:28:12.582927Z 43 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T03:32:09.582927Z 87 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T03:33:00.582927Z 12 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T03:33:22.582927Z 38 [ERROR] Client was not authorized to connect.
+2024-10-02T03:34:30.582927Z 85 [Warning] Low available disk space detected.
+2024-10-02T03:38:30.582927Z 53 [Note] InnoDB: Starting shutdown...
+2024-10-02T03:41:50.582927Z 2 [Warning] Low available disk space detected.
+2024-10-02T03:42:52.582927Z 64 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T03:46:23.582927Z 83 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T03:47:43.582927Z 66 [Note] mysqld: Shutdown complete.
+2024-10-02T03:48:00.582927Z 66 [Warning] Low available disk space detected.
+2024-10-02T03:49:57.582927Z 30 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T03:52:45.582927Z 67 [Warning] Low available disk space detected.
+2024-10-02T03:54:11.582927Z 12 [Warning] Low available disk space detected.
+2024-10-02T03:58:39.582927Z 1 [Warning] Low available disk space detected.
+2024-10-02T04:01:58.582927Z 85 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T04:03:18.582927Z 1 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T04:05:08.582927Z 76 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T04:07:26.582927Z 41 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T04:10:22.582927Z 41 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T04:11:23.582927Z 39 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T04:14:21.582927Z 60 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T04:18:09.582927Z 67 [ERROR] Client was not authorized to connect.
+2024-10-02T04:22:31.582927Z 91 [ERROR] Client was not authorized to connect.
+2024-10-02T04:23:02.582927Z 74 [ERROR] Client was not authorized to connect.
+2024-10-02T04:26:57.582927Z 55 [Warning] Low available disk space detected.
+2024-10-02T04:30:03.582927Z 4 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T04:32:01.582927Z 0 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T04:32:33.582927Z 17 [ERROR] Client was not authorized to connect.
+2024-10-02T04:34:08.582927Z 55 [Warning] Low available disk space detected.
+2024-10-02T04:35:11.582927Z 62 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T04:37:56.582927Z 83 [ERROR] Client was not authorized to connect.
+2024-10-02T04:41:07.582927Z 13 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T04:44:03.582927Z 35 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T04:46:25.582927Z 58 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T04:47:11.582927Z 99 [ERROR] Client was not authorized to connect.
+2024-10-02T04:51:01.582927Z 77 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T04:55:39.582927Z 14 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T04:59:26.582927Z 8 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T05:00:32.582927Z 59 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T05:04:45.582927Z 34 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T05:07:02.582927Z 36 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T05:09:44.582927Z 76 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T05:13:50.582927Z 79 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T05:15:44.582927Z 25 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T05:18:37.582927Z 5 [Warning] Low available disk space detected.
+2024-10-02T05:22:50.582927Z 27 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T05:26:34.582927Z 76 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T05:31:04.582927Z 6 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T05:35:11.582927Z 50 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T05:38:03.582927Z 68 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T05:40:06.582927Z 87 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T05:44:41.582927Z 39 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T05:45:54.582927Z 1 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T05:49:13.582927Z 61 [Note] InnoDB: Starting shutdown...
+2024-10-02T05:50:34.582927Z 30 [Note] mysqld: Shutdown complete.
+2024-10-02T05:53:12.582927Z 52 [Note] mysqld: Shutdown complete.
+2024-10-02T05:54:23.582927Z 51 [Note] Server socket created on IP: '::'.
+2024-10-02T05:57:30.582927Z 93 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T06:01:06.582927Z 49 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T06:05:06.582927Z 71 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T06:06:01.582927Z 25 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T06:06:11.582927Z 84 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T06:09:22.582927Z 46 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T06:11:16.582927Z 77 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T06:12:49.582927Z 54 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T06:16:08.582927Z 90 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T06:20:00.582927Z 40 [Note] InnoDB: Starting shutdown...
+2024-10-02T06:24:39.582927Z 87 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T06:26:37.582927Z 30 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T06:31:23.582927Z 51 [Warning] Low available disk space detected.
+2024-10-02T06:36:00.582927Z 0 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T06:39:29.582927Z 4 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T06:42:27.582927Z 5 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T06:44:12.582927Z 19 [ERROR] Client was not authorized to connect.
+2024-10-02T06:45:46.582927Z 5 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T06:50:19.582927Z 53 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T06:52:15.582927Z 37 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T06:53:42.582927Z 77 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T06:53:46.582927Z 100 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T06:54:33.582927Z 15 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T06:55:00.582927Z 58 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T06:57:35.582927Z 14 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T07:02:02.582927Z 0 [Note] mysqld: Shutdown complete.
+2024-10-02T07:07:01.582927Z 38 [ERROR] Client was not authorized to connect.
+2024-10-02T07:07:02.582927Z 3 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T07:09:31.582927Z 70 [Note] Server socket created on IP: '::'.
+2024-10-02T07:10:07.582927Z 8 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T07:13:36.582927Z 61 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T07:13:45.582927Z 47 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T07:15:58.582927Z 94 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T07:20:04.582927Z 48 [Warning] Low available disk space detected.
+2024-10-02T07:24:13.582927Z 75 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T07:24:27.582927Z 27 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T07:24:59.582927Z 43 [Note] mysqld: Shutdown complete.
+2024-10-02T07:29:25.582927Z 12 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T07:33:20.582927Z 67 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T07:38:14.582927Z 35 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T07:41:26.582927Z 87 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T07:46:13.582927Z 90 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T07:48:05.582927Z 74 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T07:48:10.582927Z 5 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T07:52:37.582927Z 4 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T07:57:03.582927Z 65 [ERROR] Client was not authorized to connect.
+2024-10-02T07:58:01.582927Z 100 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T08:01:18.582927Z 55 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T08:03:39.582927Z 96 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T08:08:30.582927Z 72 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T08:12:03.582927Z 52 [Note] InnoDB: Starting shutdown...
+2024-10-02T08:13:30.582927Z 77 [Note] InnoDB: Starting shutdown...
+2024-10-02T08:13:57.582927Z 87 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T08:14:49.582927Z 19 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T08:17:27.582927Z 33 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T08:20:16.582927Z 8 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T08:23:23.582927Z 12 [Note] mysqld: Shutdown complete.
+2024-10-02T08:23:33.582927Z 77 [Warning] Low available disk space detected.
+2024-10-02T08:27:20.582927Z 94 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T08:29:15.582927Z 6 [Warning] Low available disk space detected.
+2024-10-02T08:31:46.582927Z 24 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T08:33:44.582927Z 97 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T08:37:30.582927Z 57 [Warning] Low available disk space detected.
+2024-10-02T08:37:47.582927Z 68 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T08:37:50.582927Z 4 [ERROR] Client was not authorized to connect.
+2024-10-02T08:39:31.582927Z 93 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T08:39:35.582927Z 76 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T08:40:46.582927Z 55 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T08:42:25.582927Z 70 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T08:47:08.582927Z 99 [Warning] Low available disk space detected.
+2024-10-02T08:50:10.582927Z 79 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T08:52:54.582927Z 85 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T08:57:53.582927Z 78 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T09:00:08.582927Z 84 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T09:04:48.582927Z 72 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T09:06:14.582927Z 14 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T09:08:36.582927Z 92 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T09:10:44.582927Z 61 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T09:12:57.582927Z 9 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T09:14:18.582927Z 67 [Note] mysqld (mysqld 8.0.28) starting as process 10234 ...
+2024-10-02T09:14:39.582927Z 62 [Note] mysqld: Shutdown complete.
+2024-10-02T09:18:49.582927Z 5 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T09:21:26.582927Z 70 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T09:25:00.582927Z 6 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T09:27:31.582927Z 37 [Warning] Low available disk space detected.
+2024-10-02T09:29:30.582927Z 40 [Warning] Low available disk space detected.
+2024-10-02T09:30:33.582927Z 4 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T09:32:28.582927Z 32 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T09:33:36.582927Z 55 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T09:35:52.582927Z 56 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T09:37:09.582927Z 60 [Note] Server socket created on IP: '::'.
+2024-10-02T09:37:15.582927Z 12 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T09:38:36.582927Z 82 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T09:41:18.582927Z 76 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T09:44:08.582927Z 39 [ERROR] Client was not authorized to connect.
+2024-10-02T09:48:30.582927Z 70 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T09:51:02.582927Z 71 [Warning] Low available disk space detected.
+2024-10-02T09:54:04.582927Z 68 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T09:58:32.582927Z 27 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T10:02:22.582927Z 61 [ERROR] Client was not authorized to connect.
+2024-10-02T10:03:38.582927Z 7 [Warning] Low available disk space detected.
+2024-10-02T10:07:56.582927Z 6 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T10:08:44.582927Z 28 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T10:13:13.582927Z 38 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T10:18:11.582927Z 4 [Warning] Low available disk space detected.
+2024-10-02T10:19:57.582927Z 98 [Warning] Low available disk space detected.
+2024-10-02T10:24:45.582927Z 7 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T10:26:31.582927Z 43 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T10:29:12.582927Z 80 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T10:30:07.582927Z 10 [ERROR] Client was not authorized to connect.
+2024-10-02T10:32:57.582927Z 35 [ERROR] Client was not authorized to connect.
+2024-10-02T10:34:08.582927Z 14 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T10:38:33.582927Z 69 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T10:38:37.582927Z 84 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T10:40:20.582927Z 26 [Note] InnoDB: Creating shared tablespace for temporary tables.
+2024-10-02T10:42:08.582927Z 99 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T10:45:19.582927Z 29 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T10:45:25.582927Z 47 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T10:48:02.582927Z 43 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T10:50:41.582927Z 31 [Warning] Low available disk space detected.
+2024-10-02T10:54:37.582927Z 60 [Note] InnoDB: Starting shutdown...
+2024-10-02T10:58:35.582927Z 53 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T10:59:08.582927Z 92 [Note] InnoDB: Shutdown completed; log sequence number 123456789.
+2024-10-02T11:03:57.582927Z 87 [Warning] Low available disk space detected.
+2024-10-02T11:06:15.582927Z 19 [ERROR] Server: Plugin 'group_replication' cannot be loaded.
+2024-10-02T11:09:18.582927Z 12 [Note] InnoDB: Buffer pool(s) load completed.
+2024-10-02T11:11:22.582927Z 70 [Warning] Low available disk space detected.
+2024-10-02T11:13:22.582927Z 34 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T11:14:26.582927Z 5 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T11:17:22.582927Z 1 [ERROR] Access denied for user 'user1'@'localhost'.
+2024-10-02T11:17:35.582927Z 39 [ERROR] Server: Write to file failed. Check disk space!
+2024-10-02T11:21:56.582927Z 4 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T11:24:59.582927Z 26 [Note] mysqld: ready for connections. Version: '8.0.28'.
+2024-10-02T11:27:06.582927Z 43 [Note] InnoDB: Buffer pool(s) dump completed.
+2024-10-02T11:27:47.582927Z 71 [ERROR] Client was not authorized to connect.
+2024-10-02T11:30:05.582927Z 51 [Warning] Aborted connection to db: 'exampledb' user: 'exampleuser' (Got an error reading communication packets).
+2024-10-02T11:30:55.582927Z 12 [Warning] Server: CA certificate ca.pem is self signed.
+2024-10-02T11:35:18.582927Z 98 [ERROR] Server: Write to file failed. Check disk space!

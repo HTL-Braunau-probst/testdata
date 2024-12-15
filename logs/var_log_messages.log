@@ -1,0 +1,1001 @@
+2024-09-30T19:20:09.582927Z my-server systemd[14721]: NOTICE: Configuration file loaded successfully.
+2024-09-30T19:24:32.582927Z my-server kernel[43596]: ERROR: Failed to mount NFS share.
+2024-09-30T19:26:54.582927Z my-server sshd[44178]: ERROR: Critical system service crashed.
+2024-09-30T19:31:15.582927Z my-server sshd[35583]: ERROR: Critical system service crashed.
+2024-09-30T19:33:13.582927Z my-server kernel[29343]: WARNING: Low available disk space on /home partition.
+2024-09-30T19:35:49.582927Z my-server apache2[26656]: NOTICE: Network interface eth0 brought up.
+2024-09-30T19:36:16.582927Z my-server sshd[7017]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T19:40:43.582927Z my-server apache2[3151]: NOTICE: Network interface eth0 brought up.
+2024-09-30T19:42:51.582927Z my-server systemd[27320]: NOTICE: Configuration file loaded successfully.
+2024-09-30T19:45:31.582927Z my-server sshd[26032]: NOTICE: Configuration file loaded successfully.
+2024-09-30T19:49:11.582927Z my-server mysql[13507]: WARNING: Low available disk space on /home partition.
+2024-09-30T19:49:36.582927Z my-server sshd[34344]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T19:54:01.582927Z my-server sshd[25973]: NOTICE: User login successful.
+2024-09-30T19:54:34.582927Z my-server systemd[35208]: WARNING: Low available disk space on /home partition.
+2024-09-30T19:57:57.582927Z my-server sshd[27821]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T19:58:25.582927Z my-server sshd[10052]: NOTICE: Service apache2 restarted successfully.
+2024-09-30T19:59:24.582927Z my-server mysql[15223]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T20:00:43.582927Z my-server apache2[31102]: ERROR: Failed to mount NFS share.
+2024-09-30T20:03:10.582927Z my-server mysql[33358]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T20:06:18.582927Z my-server kernel[19564]: NOTICE: User login successful.
+2024-09-30T20:09:45.582927Z my-server systemd[29072]: ERROR: Failed to mount NFS share.
+2024-09-30T20:11:56.582927Z my-server systemd[45615]: WARNING: High memory usage detected: 95% used.
+2024-09-30T20:14:53.582927Z my-server mysql[33631]: WARNING: Low available disk space on /home partition.
+2024-09-30T20:16:38.582927Z my-server mysql[21080]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T20:21:24.582927Z my-server systemd[36803]: WARNING: Disk read/write latency above normal levels.
+2024-09-30T20:22:14.582927Z my-server mysql[35913]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T20:23:01.582927Z my-server apache2[36520]: WARNING: Disk read/write latency above normal levels.
+2024-09-30T20:27:04.582927Z my-server sshd[32703]: NOTICE: Network interface eth0 brought up.
+2024-09-30T20:30:53.582927Z my-server mysql[39328]: ERROR: Database connection failed.
+2024-09-30T20:32:22.582927Z my-server sshd[12314]: ERROR: Failed to mount NFS share.
+2024-09-30T20:32:35.582927Z my-server mysql[10816]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T20:37:07.582927Z my-server kernel[7797]: ERROR: Failed to mount NFS share.
+2024-09-30T20:40:26.582927Z my-server mysql[9382]: NOTICE: Network interface eth0 brought up.
+2024-09-30T20:44:27.582927Z my-server sshd[2121]: NOTICE: Configuration file loaded successfully.
+2024-09-30T20:45:46.582927Z my-server apache2[33482]: ERROR: Database connection failed.
+2024-09-30T20:49:57.582927Z my-server kernel[23748]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T20:54:35.582927Z my-server systemd[38499]: ERROR: Failed to mount NFS share.
+2024-09-30T20:59:12.582927Z my-server sshd[43273]: NOTICE: System health check passed.
+2024-09-30T21:03:06.582927Z my-server apache2[18291]: NOTICE: Service apache2 restarted successfully.
+2024-09-30T21:04:24.582927Z my-server kernel[7063]: WARNING: High memory usage detected: 95% used.
+2024-09-30T21:05:20.582927Z my-server apache2[42324]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T21:09:06.582927Z my-server kernel[44303]: NOTICE: Service apache2 restarted successfully.
+2024-09-30T21:13:24.582927Z my-server sshd[29346]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T21:16:42.582927Z my-server systemd[43568]: NOTICE: Service apache2 restarted successfully.
+2024-09-30T21:19:50.582927Z my-server sshd[24249]: NOTICE: Network interface eth0 brought up.
+2024-09-30T21:20:11.582927Z my-server apache2[35283]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T21:23:25.582927Z my-server mysql[17545]: WARNING: Low available disk space on /home partition.
+2024-09-30T21:26:00.582927Z my-server kernel[44160]: WARNING: Low available disk space on /home partition.
+2024-09-30T21:26:21.582927Z my-server mysql[29413]: ERROR: Critical system service crashed.
+2024-09-30T21:26:47.582927Z my-server systemd[28706]: NOTICE: System health check passed.
+2024-09-30T21:28:29.582927Z my-server apache2[44386]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T21:30:00.582927Z my-server mysql[1708]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-09-30T21:30:24.582927Z my-server mysql[14958]: NOTICE: Network interface eth0 brought up.
+2024-09-30T21:34:35.582927Z my-server sshd[10139]: NOTICE: Configuration file loaded successfully.
+2024-09-30T21:35:47.582927Z my-server systemd[2861]: ERROR: Critical system service crashed.
+2024-09-30T21:37:13.582927Z my-server apache2[47493]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-09-30T21:37:37.582927Z my-server mysql[41296]: ERROR: Failed to start MySQL service.
+2024-09-30T21:39:42.582927Z my-server mysql[21973]: ERROR: Critical system service crashed.
+2024-09-30T21:44:09.582927Z my-server apache2[17704]: ERROR: Database connection failed.
+2024-09-30T21:46:28.582927Z my-server kernel[49904]: NOTICE: User login successful.
+2024-09-30T21:51:00.582927Z my-server systemd[28570]: WARNING: Low available disk space on /home partition.
+2024-09-30T21:51:05.582927Z my-server systemd[2430]: NOTICE: Service apache2 restarted successfully.
+2024-09-30T21:53:10.582927Z my-server systemd[5369]: WARNING: Disk read/write latency above normal levels.
+2024-09-30T21:53:55.582927Z my-server systemd[19449]: NOTICE: Configuration file loaded successfully.
+2024-09-30T21:58:39.582927Z my-server systemd[3366]: NOTICE: User login successful.
+2024-09-30T22:00:34.582927Z my-server sshd[19520]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-09-30T22:05:20.582927Z my-server kernel[45248]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-09-30T22:07:44.582927Z my-server apache2[6117]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T22:09:09.582927Z my-server sshd[5512]: NOTICE: System health check passed.
+2024-09-30T22:11:30.582927Z my-server sshd[33056]: ERROR: Critical system service crashed.
+2024-09-30T22:14:56.582927Z my-server systemd[11376]: NOTICE: Configuration file loaded successfully.
+2024-09-30T22:19:43.582927Z my-server sshd[14861]: ERROR: Failed to mount NFS share.
+2024-09-30T22:22:32.582927Z my-server mysql[9008]: ERROR: Critical system service crashed.
+2024-09-30T22:25:44.582927Z my-server kernel[34104]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T22:27:31.582927Z my-server systemd[40014]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-09-30T22:30:14.582927Z my-server systemd[17198]: NOTICE: System health check passed.
+2024-09-30T22:34:12.582927Z my-server sshd[40480]: NOTICE: User login successful.
+2024-09-30T22:35:18.582927Z my-server systemd[34792]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-09-30T22:37:04.582927Z my-server sshd[32611]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-09-30T22:38:05.582927Z my-server systemd[7048]: ERROR: Failed to mount NFS share.
+2024-09-30T22:42:51.582927Z my-server kernel[39128]: ERROR: Database connection failed.
+2024-09-30T22:43:27.582927Z my-server apache2[37939]: NOTICE: Network interface eth0 brought up.
+2024-09-30T22:44:05.582927Z my-server sshd[46754]: WARNING: Disk read/write latency above normal levels.
+2024-09-30T22:48:09.582927Z my-server systemd[40966]: WARNING: High memory usage detected: 95% used.
+2024-09-30T22:51:22.582927Z my-server mysql[30186]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T22:52:04.582927Z my-server mysql[8304]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T22:53:51.582927Z my-server systemd[29989]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T22:55:32.582927Z my-server systemd[33869]: NOTICE: Service apache2 restarted successfully.
+2024-09-30T22:59:05.582927Z my-server sshd[22266]: ERROR: Database connection failed.
+2024-09-30T23:00:14.582927Z my-server apache2[13931]: ERROR: Failed to start MySQL service.
+2024-09-30T23:01:29.582927Z my-server mysql[19392]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-09-30T23:03:09.582927Z my-server mysql[45005]: NOTICE: Service apache2 restarted successfully.
+2024-09-30T23:07:52.582927Z my-server mysql[30121]: ERROR: Failed to start MySQL service.
+2024-09-30T23:10:39.582927Z my-server kernel[7851]: ERROR: Database connection failed.
+2024-09-30T23:15:32.582927Z my-server kernel[15456]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-09-30T23:20:20.582927Z my-server apache2[37937]: ERROR: Database connection failed.
+2024-09-30T23:24:09.582927Z my-server apache2[9301]: NOTICE: Network interface eth0 brought up.
+2024-09-30T23:24:35.582927Z my-server kernel[43967]: ERROR: Failed to start MySQL service.
+2024-09-30T23:26:55.582927Z my-server sshd[13854]: WARNING: Low available disk space on /home partition.
+2024-09-30T23:29:01.582927Z my-server kernel[21519]: WARNING: High memory usage detected: 95% used.
+2024-09-30T23:33:55.582927Z my-server systemd[25249]: WARNING: Disk read/write latency above normal levels.
+2024-09-30T23:35:52.582927Z my-server mysql[4206]: NOTICE: User login successful.
+2024-09-30T23:36:07.582927Z my-server mysql[20533]: ERROR: Failed to mount NFS share.
+2024-09-30T23:39:42.582927Z my-server kernel[20968]: ERROR: Database connection failed.
+2024-09-30T23:41:54.582927Z my-server systemd[29605]: NOTICE: Service apache2 restarted successfully.
+2024-09-30T23:43:34.582927Z my-server sshd[13011]: NOTICE: Configuration file loaded successfully.
+2024-09-30T23:48:27.582927Z my-server sshd[9449]: ERROR: Database connection failed.
+2024-09-30T23:52:14.582927Z my-server mysql[2909]: WARNING: High memory usage detected: 95% used.
+2024-09-30T23:53:52.582927Z my-server apache2[20707]: ERROR: Critical system service crashed.
+2024-09-30T23:58:17.582927Z my-server mysql[22206]: ERROR: Failed to mount NFS share.
+2024-10-01T00:00:31.582927Z my-server systemd[49815]: ERROR: Database connection failed.
+2024-10-01T00:01:44.582927Z my-server sshd[25522]: WARNING: Low available disk space on /home partition.
+2024-10-01T00:03:15.582927Z my-server sshd[35446]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T00:07:36.582927Z my-server apache2[44785]: ERROR: Database connection failed.
+2024-10-01T00:12:32.582927Z my-server apache2[49755]: ERROR: Failed to mount NFS share.
+2024-10-01T00:13:24.582927Z my-server mysql[23680]: NOTICE: Configuration file loaded successfully.
+2024-10-01T00:13:34.582927Z my-server apache2[43837]: ERROR: Failed to start MySQL service.
+2024-10-01T00:14:30.582927Z my-server kernel[17817]: ERROR: Critical system service crashed.
+2024-10-01T00:15:46.582927Z my-server mysql[17091]: NOTICE: System health check passed.
+2024-10-01T00:18:08.582927Z my-server sshd[2520]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T00:20:31.582927Z my-server apache2[2414]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T00:23:06.582927Z my-server systemd[19497]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T00:25:55.582927Z my-server systemd[26852]: WARNING: Low available disk space on /home partition.
+2024-10-01T00:26:29.582927Z my-server systemd[9593]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T00:28:58.582927Z my-server kernel[47853]: ERROR: Critical system service crashed.
+2024-10-01T00:30:08.582927Z my-server kernel[26004]: ERROR: Database connection failed.
+2024-10-01T00:34:59.582927Z my-server apache2[31224]: ERROR: Critical system service crashed.
+2024-10-01T00:38:13.582927Z my-server kernel[33165]: NOTICE: User login successful.
+2024-10-01T00:40:27.582927Z my-server sshd[48233]: ERROR: Failed to start MySQL service.
+2024-10-01T00:41:57.582927Z my-server apache2[4272]: NOTICE: Network interface eth0 brought up.
+2024-10-01T00:43:15.582927Z my-server mysql[23385]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T00:43:54.582927Z my-server mysql[14506]: NOTICE: Network interface eth0 brought up.
+2024-10-01T00:48:20.582927Z my-server systemd[40459]: WARNING: Low available disk space on /home partition.
+2024-10-01T00:50:10.582927Z my-server mysql[30041]: NOTICE: System health check passed.
+2024-10-01T00:52:01.582927Z my-server mysql[11644]: NOTICE: Configuration file loaded successfully.
+2024-10-01T00:56:05.582927Z my-server systemd[5036]: NOTICE: System health check passed.
+2024-10-01T00:56:39.582927Z my-server mysql[21164]: ERROR: Critical system service crashed.
+2024-10-01T01:01:11.582927Z my-server systemd[42518]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T01:04:20.582927Z my-server kernel[46756]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T01:06:59.582927Z my-server apache2[34229]: NOTICE: System health check passed.
+2024-10-01T01:11:01.582927Z my-server apache2[41719]: NOTICE: System health check passed.
+2024-10-01T01:13:16.582927Z my-server apache2[8715]: WARNING: Low available disk space on /home partition.
+2024-10-01T01:13:34.582927Z my-server sshd[29635]: ERROR: Failed to mount NFS share.
+2024-10-01T01:14:42.582927Z my-server apache2[35521]: WARNING: Low available disk space on /home partition.
+2024-10-01T01:17:42.582927Z my-server kernel[38760]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T01:18:42.582927Z my-server kernel[38313]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T01:20:49.582927Z my-server apache2[38352]: NOTICE: Configuration file loaded successfully.
+2024-10-01T01:22:21.582927Z my-server apache2[49723]: ERROR: Failed to mount NFS share.
+2024-10-01T01:23:28.582927Z my-server apache2[43429]: ERROR: Failed to mount NFS share.
+2024-10-01T01:26:39.582927Z my-server apache2[41052]: WARNING: High memory usage detected: 95% used.
+2024-10-01T01:28:32.582927Z my-server systemd[24307]: NOTICE: User login successful.
+2024-10-01T01:31:34.582927Z my-server kernel[31122]: WARNING: High memory usage detected: 95% used.
+2024-10-01T01:32:38.582927Z my-server mysql[27023]: ERROR: Failed to start MySQL service.
+2024-10-01T01:37:02.582927Z my-server systemd[10882]: ERROR: Failed to start MySQL service.
+2024-10-01T01:39:48.582927Z my-server mysql[29885]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T01:41:13.582927Z my-server sshd[17160]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T01:41:43.582927Z my-server apache2[11724]: ERROR: Failed to mount NFS share.
+2024-10-01T01:46:13.582927Z my-server mysql[45712]: NOTICE: User login successful.
+2024-10-01T01:50:06.582927Z my-server apache2[30828]: NOTICE: Network interface eth0 brought up.
+2024-10-01T01:54:01.582927Z my-server mysql[45077]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T01:54:07.582927Z my-server apache2[24939]: NOTICE: Configuration file loaded successfully.
+2024-10-01T01:56:15.582927Z my-server kernel[31824]: ERROR: Critical system service crashed.
+2024-10-01T01:57:13.582927Z my-server systemd[7169]: NOTICE: Network interface eth0 brought up.
+2024-10-01T01:58:07.582927Z my-server apache2[39576]: ERROR: Failed to start MySQL service.
+2024-10-01T02:00:18.582927Z my-server sshd[14112]: ERROR: Database connection failed.
+2024-10-01T02:04:04.582927Z my-server sshd[37462]: ERROR: Failed to start MySQL service.
+2024-10-01T02:06:03.582927Z my-server apache2[34730]: ERROR: Failed to mount NFS share.
+2024-10-01T02:09:58.582927Z my-server mysql[3568]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T02:13:35.582927Z my-server kernel[27689]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T02:16:26.582927Z my-server kernel[6726]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T02:18:03.582927Z my-server mysql[39421]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T02:18:07.582927Z my-server sshd[11684]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T02:22:27.582927Z my-server systemd[11261]: ERROR: Critical system service crashed.
+2024-10-01T02:22:49.582927Z my-server apache2[14664]: NOTICE: Configuration file loaded successfully.
+2024-10-01T02:27:47.582927Z my-server mysql[3399]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T02:29:32.582927Z my-server mysql[11780]: ERROR: Failed to start MySQL service.
+2024-10-01T02:29:41.582927Z my-server apache2[2944]: ERROR: Critical system service crashed.
+2024-10-01T02:34:00.582927Z my-server kernel[35553]: WARNING: Low available disk space on /home partition.
+2024-10-01T02:35:57.582927Z my-server sshd[23732]: NOTICE: Network interface eth0 brought up.
+2024-10-01T02:39:28.582927Z my-server apache2[39702]: NOTICE: Network interface eth0 brought up.
+2024-10-01T02:44:22.582927Z my-server kernel[4669]: NOTICE: User login successful.
+2024-10-01T02:48:52.582927Z my-server apache2[26963]: WARNING: High memory usage detected: 95% used.
+2024-10-01T02:50:35.582927Z my-server apache2[32163]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T02:52:09.582927Z my-server mysql[34321]: ERROR: Failed to start MySQL service.
+2024-10-01T02:55:40.582927Z my-server apache2[18241]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T02:56:59.582927Z my-server kernel[25515]: WARNING: Low available disk space on /home partition.
+2024-10-01T02:58:42.582927Z my-server kernel[45315]: WARNING: Low available disk space on /home partition.
+2024-10-01T02:59:11.582927Z my-server systemd[5141]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T03:00:06.582927Z my-server mysql[4604]: ERROR: Critical system service crashed.
+2024-10-01T03:02:32.582927Z my-server apache2[13624]: ERROR: Critical system service crashed.
+2024-10-01T03:04:39.582927Z my-server sshd[5122]: ERROR: Critical system service crashed.
+2024-10-01T03:07:43.582927Z my-server mysql[15377]: ERROR: Critical system service crashed.
+2024-10-01T03:10:13.582927Z my-server apache2[12390]: WARNING: Low available disk space on /home partition.
+2024-10-01T03:14:12.582927Z my-server mysql[44709]: ERROR: Critical system service crashed.
+2024-10-01T03:14:55.582927Z my-server kernel[10005]: NOTICE: System health check passed.
+2024-10-01T03:18:51.582927Z my-server systemd[13208]: ERROR: Failed to start MySQL service.
+2024-10-01T03:18:54.582927Z my-server kernel[12625]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T03:22:02.582927Z my-server systemd[1779]: NOTICE: Network interface eth0 brought up.
+2024-10-01T03:25:51.582927Z my-server kernel[23604]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T03:27:41.582927Z my-server sshd[4384]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T03:29:27.582927Z my-server apache2[30783]: ERROR: Database connection failed.
+2024-10-01T03:31:52.582927Z my-server systemd[6647]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T03:32:06.582927Z my-server systemd[22433]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T03:33:23.582927Z my-server apache2[36293]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T03:37:02.582927Z my-server systemd[37889]: NOTICE: Configuration file loaded successfully.
+2024-10-01T03:38:12.582927Z my-server sshd[46481]: NOTICE: System health check passed.
+2024-10-01T03:40:16.582927Z my-server kernel[48970]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T03:44:13.582927Z my-server systemd[31271]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T03:44:25.582927Z my-server apache2[18078]: NOTICE: Network interface eth0 brought up.
+2024-10-01T03:47:33.582927Z my-server kernel[28855]: ERROR: Failed to mount NFS share.
+2024-10-01T03:49:45.582927Z my-server mysql[26903]: ERROR: Failed to start MySQL service.
+2024-10-01T03:53:05.582927Z my-server apache2[7417]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T03:55:18.582927Z my-server sshd[11864]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T03:55:37.582927Z my-server kernel[12971]: WARNING: High memory usage detected: 95% used.
+2024-10-01T03:55:42.582927Z my-server mysql[40662]: ERROR: Failed to start MySQL service.
+2024-10-01T03:59:19.582927Z my-server kernel[13864]: ERROR: Database connection failed.
+2024-10-01T04:00:25.582927Z my-server kernel[16136]: ERROR: Failed to start MySQL service.
+2024-10-01T04:04:50.582927Z my-server mysql[46806]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T04:08:53.582927Z my-server mysql[5332]: NOTICE: Network interface eth0 brought up.
+2024-10-01T04:11:02.582927Z my-server sshd[43247]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T04:15:03.582927Z my-server mysql[17465]: NOTICE: Configuration file loaded successfully.
+2024-10-01T04:16:13.582927Z my-server apache2[36876]: NOTICE: Network interface eth0 brought up.
+2024-10-01T04:16:49.582927Z my-server sshd[3807]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T04:20:52.582927Z my-server sshd[27913]: WARNING: High memory usage detected: 95% used.
+2024-10-01T04:22:47.582927Z my-server mysql[6214]: WARNING: Low available disk space on /home partition.
+2024-10-01T04:23:05.582927Z my-server kernel[17111]: WARNING: High memory usage detected: 95% used.
+2024-10-01T04:25:00.582927Z my-server sshd[41529]: WARNING: Low available disk space on /home partition.
+2024-10-01T04:28:57.582927Z my-server systemd[43963]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T04:31:12.582927Z my-server kernel[9342]: NOTICE: System health check passed.
+2024-10-01T04:34:26.582927Z my-server mysql[16108]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T04:35:06.582927Z my-server mysql[28330]: WARNING: Low available disk space on /home partition.
+2024-10-01T04:35:59.582927Z my-server kernel[45874]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T04:36:24.582927Z my-server sshd[18569]: WARNING: High memory usage detected: 95% used.
+2024-10-01T04:40:58.582927Z my-server apache2[49436]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T04:45:57.582927Z my-server systemd[47153]: ERROR: Critical system service crashed.
+2024-10-01T04:49:34.582927Z my-server sshd[16213]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T04:52:09.582927Z my-server apache2[30949]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T04:56:16.582927Z my-server systemd[10302]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T04:56:30.582927Z my-server mysql[38467]: NOTICE: Network interface eth0 brought up.
+2024-10-01T05:00:07.582927Z my-server mysql[14836]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T05:03:21.582927Z my-server sshd[20861]: NOTICE: User login successful.
+2024-10-01T05:04:32.582927Z my-server sshd[8402]: ERROR: Failed to start MySQL service.
+2024-10-01T05:09:32.582927Z my-server systemd[26109]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T05:13:08.582927Z my-server sshd[23857]: ERROR: Failed to start MySQL service.
+2024-10-01T05:15:58.582927Z my-server apache2[17285]: ERROR: Critical system service crashed.
+2024-10-01T05:18:34.582927Z my-server apache2[44808]: NOTICE: Network interface eth0 brought up.
+2024-10-01T05:19:03.582927Z my-server sshd[20343]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T05:23:43.582927Z my-server systemd[7836]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T05:24:33.582927Z my-server mysql[13335]: ERROR: Failed to mount NFS share.
+2024-10-01T05:29:23.582927Z my-server mysql[5941]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T05:31:01.582927Z my-server systemd[13900]: ERROR: Database connection failed.
+2024-10-01T05:33:12.582927Z my-server systemd[17142]: ERROR: Failed to start MySQL service.
+2024-10-01T05:35:08.582927Z my-server mysql[38160]: WARNING: Low available disk space on /home partition.
+2024-10-01T05:38:05.582927Z my-server mysql[46891]: ERROR: Failed to mount NFS share.
+2024-10-01T05:41:00.582927Z my-server apache2[45780]: NOTICE: User login successful.
+2024-10-01T05:41:45.582927Z my-server kernel[9433]: NOTICE: Configuration file loaded successfully.
+2024-10-01T05:44:20.582927Z my-server kernel[47750]: ERROR: Critical system service crashed.
+2024-10-01T05:48:27.582927Z my-server kernel[24380]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T05:50:20.582927Z my-server mysql[34012]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T05:51:10.582927Z my-server apache2[12772]: WARNING: High memory usage detected: 95% used.
+2024-10-01T05:53:44.582927Z my-server apache2[44116]: ERROR: Database connection failed.
+2024-10-01T05:54:45.582927Z my-server mysql[8670]: WARNING: Low available disk space on /home partition.
+2024-10-01T05:57:59.582927Z my-server mysql[9580]: ERROR: Critical system service crashed.
+2024-10-01T06:02:19.582927Z my-server sshd[13072]: ERROR: Critical system service crashed.
+2024-10-01T06:05:53.582927Z my-server systemd[19789]: ERROR: Critical system service crashed.
+2024-10-01T06:06:37.582927Z my-server kernel[19135]: WARNING: High memory usage detected: 95% used.
+2024-10-01T06:08:17.582927Z my-server apache2[2652]: NOTICE: Configuration file loaded successfully.
+2024-10-01T06:09:52.582927Z my-server systemd[45762]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T06:14:00.582927Z my-server kernel[22906]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T06:14:53.582927Z my-server kernel[10108]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T06:18:30.582927Z my-server sshd[48198]: WARNING: High memory usage detected: 95% used.
+2024-10-01T06:19:50.582927Z my-server kernel[37491]: NOTICE: Network interface eth0 brought up.
+2024-10-01T06:20:53.582927Z my-server kernel[2137]: ERROR: Critical system service crashed.
+2024-10-01T06:24:02.582927Z my-server kernel[17771]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T06:28:16.582927Z my-server sshd[19807]: NOTICE: Network interface eth0 brought up.
+2024-10-01T06:32:31.582927Z my-server sshd[5159]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T06:35:49.582927Z my-server systemd[28213]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T06:37:37.582927Z my-server kernel[12408]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T06:40:48.582927Z my-server kernel[35060]: NOTICE: System health check passed.
+2024-10-01T06:44:11.582927Z my-server sshd[9425]: ERROR: Failed to mount NFS share.
+2024-10-01T06:46:06.582927Z my-server kernel[29177]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T06:50:19.582927Z my-server mysql[8054]: ERROR: Failed to mount NFS share.
+2024-10-01T06:50:43.582927Z my-server systemd[19809]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T06:55:31.582927Z my-server sshd[31978]: NOTICE: Configuration file loaded successfully.
+2024-10-01T06:58:25.582927Z my-server systemd[11534]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T07:00:43.582927Z my-server sshd[13644]: WARNING: High memory usage detected: 95% used.
+2024-10-01T07:04:20.582927Z my-server mysql[8584]: NOTICE: Network interface eth0 brought up.
+2024-10-01T07:07:52.582927Z my-server sshd[15770]: NOTICE: Configuration file loaded successfully.
+2024-10-01T07:10:27.582927Z my-server apache2[22408]: NOTICE: Configuration file loaded successfully.
+2024-10-01T07:14:09.582927Z my-server apache2[20288]: NOTICE: User login successful.
+2024-10-01T07:15:12.582927Z my-server sshd[39660]: NOTICE: User login successful.
+2024-10-01T07:17:33.582927Z my-server mysql[47024]: NOTICE: Configuration file loaded successfully.
+2024-10-01T07:18:59.582927Z my-server apache2[42366]: NOTICE: Configuration file loaded successfully.
+2024-10-01T07:20:51.582927Z my-server kernel[40612]: ERROR: Critical system service crashed.
+2024-10-01T07:22:52.582927Z my-server systemd[48119]: NOTICE: Network interface eth0 brought up.
+2024-10-01T07:23:39.582927Z my-server systemd[30063]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T07:26:10.582927Z my-server mysql[47465]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T07:26:51.582927Z my-server sshd[47661]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T07:29:17.582927Z my-server sshd[37720]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T07:29:23.582927Z my-server systemd[48630]: WARNING: Low available disk space on /home partition.
+2024-10-01T07:31:21.582927Z my-server apache2[13187]: NOTICE: User login successful.
+2024-10-01T07:34:01.582927Z my-server sshd[13122]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T07:38:27.582927Z my-server kernel[39996]: WARNING: High memory usage detected: 95% used.
+2024-10-01T07:42:16.582927Z my-server apache2[39169]: NOTICE: System health check passed.
+2024-10-01T07:47:14.582927Z my-server apache2[44346]: NOTICE: User login successful.
+2024-10-01T07:49:00.582927Z my-server apache2[4777]: WARNING: Low available disk space on /home partition.
+2024-10-01T07:51:32.582927Z my-server systemd[47621]: NOTICE: User login successful.
+2024-10-01T07:52:03.582927Z my-server kernel[24967]: WARNING: High memory usage detected: 95% used.
+2024-10-01T07:53:45.582927Z my-server sshd[28119]: ERROR: Critical system service crashed.
+2024-10-01T07:58:25.582927Z my-server apache2[11366]: ERROR: Failed to start MySQL service.
+2024-10-01T07:59:48.582927Z my-server sshd[7083]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T08:00:36.582927Z my-server kernel[7954]: ERROR: Failed to mount NFS share.
+2024-10-01T08:04:20.582927Z my-server sshd[1807]: WARNING: High memory usage detected: 95% used.
+2024-10-01T08:07:41.582927Z my-server kernel[39203]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T08:10:00.582927Z my-server mysql[18700]: NOTICE: User login successful.
+2024-10-01T08:11:51.582927Z my-server kernel[31552]: ERROR: Failed to start MySQL service.
+2024-10-01T08:15:20.582927Z my-server mysql[45962]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T08:19:36.582927Z my-server apache2[18144]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T08:21:21.582927Z my-server apache2[45895]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T08:22:30.582927Z my-server systemd[14770]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T08:22:46.582927Z my-server kernel[26712]: ERROR: Failed to start MySQL service.
+2024-10-01T08:26:52.582927Z my-server systemd[35113]: ERROR: Failed to start MySQL service.
+2024-10-01T08:27:36.582927Z my-server apache2[26908]: NOTICE: Configuration file loaded successfully.
+2024-10-01T08:28:49.582927Z my-server mysql[17067]: ERROR: Failed to start MySQL service.
+2024-10-01T08:32:10.582927Z my-server apache2[10391]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T08:36:19.582927Z my-server apache2[39522]: NOTICE: System health check passed.
+2024-10-01T08:37:39.582927Z my-server apache2[13816]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T08:37:58.582927Z my-server systemd[35656]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T08:42:49.582927Z my-server kernel[19275]: NOTICE: Network interface eth0 brought up.
+2024-10-01T08:46:07.582927Z my-server mysql[37106]: ERROR: Failed to start MySQL service.
+2024-10-01T08:49:36.582927Z my-server apache2[12523]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T08:49:46.582927Z my-server apache2[28529]: WARNING: High memory usage detected: 95% used.
+2024-10-01T08:50:17.582927Z my-server kernel[31998]: WARNING: Low available disk space on /home partition.
+2024-10-01T08:50:31.582927Z my-server mysql[6030]: WARNING: High memory usage detected: 95% used.
+2024-10-01T08:53:59.582927Z my-server systemd[47864]: WARNING: Low available disk space on /home partition.
+2024-10-01T08:56:40.582927Z my-server mysql[27186]: NOTICE: Configuration file loaded successfully.
+2024-10-01T09:01:03.582927Z my-server apache2[35327]: ERROR: Failed to start MySQL service.
+2024-10-01T09:05:52.582927Z my-server systemd[35610]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T09:08:19.582927Z my-server apache2[3126]: ERROR: Critical system service crashed.
+2024-10-01T09:09:29.582927Z my-server systemd[32164]: NOTICE: User login successful.
+2024-10-01T09:11:12.582927Z my-server kernel[23955]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T09:12:35.582927Z my-server sshd[43812]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T09:16:43.582927Z my-server apache2[2469]: ERROR: Critical system service crashed.
+2024-10-01T09:20:17.582927Z my-server kernel[5000]: WARNING: High memory usage detected: 95% used.
+2024-10-01T09:23:37.582927Z my-server systemd[14604]: WARNING: High memory usage detected: 95% used.
+2024-10-01T09:25:53.582927Z my-server apache2[12876]: NOTICE: User login successful.
+2024-10-01T09:29:02.582927Z my-server apache2[26825]: ERROR: Failed to start MySQL service.
+2024-10-01T09:31:38.582927Z my-server systemd[28506]: ERROR: Database connection failed.
+2024-10-01T09:31:47.582927Z my-server systemd[18986]: ERROR: Critical system service crashed.
+2024-10-01T09:33:48.582927Z my-server kernel[14945]: WARNING: Low available disk space on /home partition.
+2024-10-01T09:34:56.582927Z my-server systemd[10329]: ERROR: Failed to mount NFS share.
+2024-10-01T09:36:12.582927Z my-server systemd[48012]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T09:39:38.582927Z my-server systemd[49368]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T09:39:41.582927Z my-server systemd[42817]: ERROR: Database connection failed.
+2024-10-01T09:40:33.582927Z my-server systemd[1783]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T09:43:09.582927Z my-server systemd[34196]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T09:48:02.582927Z my-server sshd[37707]: ERROR: Failed to mount NFS share.
+2024-10-01T09:51:24.582927Z my-server mysql[10233]: WARNING: Low available disk space on /home partition.
+2024-10-01T09:52:30.582927Z my-server kernel[2945]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T09:55:50.582927Z my-server apache2[21929]: ERROR: Critical system service crashed.
+2024-10-01T09:57:43.582927Z my-server mysql[40043]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T10:00:20.582927Z my-server apache2[39852]: NOTICE: Network interface eth0 brought up.
+2024-10-01T10:04:58.582927Z my-server mysql[38409]: NOTICE: User login successful.
+2024-10-01T10:08:43.582927Z my-server apache2[46103]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T10:11:41.582927Z my-server systemd[47983]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T10:13:19.582927Z my-server apache2[11597]: ERROR: Database connection failed.
+2024-10-01T10:16:04.582927Z my-server mysql[41141]: WARNING: Low available disk space on /home partition.
+2024-10-01T10:18:13.582927Z my-server systemd[10310]: NOTICE: Network interface eth0 brought up.
+2024-10-01T10:22:38.582927Z my-server systemd[43742]: WARNING: High memory usage detected: 95% used.
+2024-10-01T10:24:02.582927Z my-server systemd[3432]: ERROR: Database connection failed.
+2024-10-01T10:25:11.582927Z my-server mysql[43182]: NOTICE: User login successful.
+2024-10-01T10:25:56.582927Z my-server systemd[24696]: NOTICE: Network interface eth0 brought up.
+2024-10-01T10:27:10.582927Z my-server apache2[23094]: NOTICE: User login successful.
+2024-10-01T10:28:53.582927Z my-server kernel[19821]: NOTICE: Network interface eth0 brought up.
+2024-10-01T10:31:39.582927Z my-server apache2[47990]: ERROR: Failed to start MySQL service.
+2024-10-01T10:33:34.582927Z my-server kernel[8206]: NOTICE: Network interface eth0 brought up.
+2024-10-01T10:33:37.582927Z my-server apache2[35249]: WARNING: High memory usage detected: 95% used.
+2024-10-01T10:34:09.582927Z my-server systemd[45821]: WARNING: High memory usage detected: 95% used.
+2024-10-01T10:34:37.582927Z my-server systemd[47820]: WARNING: High memory usage detected: 95% used.
+2024-10-01T10:39:06.582927Z my-server systemd[29500]: WARNING: Low available disk space on /home partition.
+2024-10-01T10:42:31.582927Z my-server apache2[15295]: ERROR: Critical system service crashed.
+2024-10-01T10:45:55.582927Z my-server apache2[30823]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T10:46:40.582927Z my-server kernel[48615]: NOTICE: System health check passed.
+2024-10-01T10:49:11.582927Z my-server sshd[18753]: WARNING: Low available disk space on /home partition.
+2024-10-01T10:49:48.582927Z my-server systemd[33304]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T10:51:18.582927Z my-server kernel[4845]: ERROR: Critical system service crashed.
+2024-10-01T10:53:29.582927Z my-server mysql[33719]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T10:57:51.582927Z my-server apache2[39539]: ERROR: Critical system service crashed.
+2024-10-01T10:59:23.582927Z my-server sshd[48190]: NOTICE: User login successful.
+2024-10-01T11:01:44.582927Z my-server apache2[48234]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T11:02:21.582927Z my-server sshd[5271]: NOTICE: Network interface eth0 brought up.
+2024-10-01T11:03:36.582927Z my-server kernel[36348]: NOTICE: User login successful.
+2024-10-01T11:05:02.582927Z my-server systemd[45356]: WARNING: Low available disk space on /home partition.
+2024-10-01T11:09:18.582927Z my-server sshd[35330]: NOTICE: Configuration file loaded successfully.
+2024-10-01T11:12:59.582927Z my-server apache2[22767]: ERROR: Database connection failed.
+2024-10-01T11:17:17.582927Z my-server systemd[47853]: ERROR: Critical system service crashed.
+2024-10-01T11:20:13.582927Z my-server sshd[41694]: NOTICE: Configuration file loaded successfully.
+2024-10-01T11:21:10.582927Z my-server systemd[11885]: NOTICE: System health check passed.
+2024-10-01T11:23:22.582927Z my-server systemd[29334]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T11:28:02.582927Z my-server apache2[35435]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T11:29:49.582927Z my-server sshd[37251]: ERROR: Failed to mount NFS share.
+2024-10-01T11:34:32.582927Z my-server systemd[47049]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T11:34:43.582927Z my-server sshd[42193]: WARNING: High memory usage detected: 95% used.
+2024-10-01T11:39:05.582927Z my-server sshd[43267]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T11:40:21.582927Z my-server mysql[47604]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T11:42:15.582927Z my-server sshd[12707]: ERROR: Failed to start MySQL service.
+2024-10-01T11:44:26.582927Z my-server kernel[39158]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T11:48:55.582927Z my-server apache2[5514]: ERROR: Database connection failed.
+2024-10-01T11:52:51.582927Z my-server kernel[24931]: NOTICE: User login successful.
+2024-10-01T11:57:35.582927Z my-server kernel[1131]: ERROR: Failed to mount NFS share.
+2024-10-01T12:02:11.582927Z my-server systemd[1261]: NOTICE: Network interface eth0 brought up.
+2024-10-01T12:06:24.582927Z my-server systemd[15305]: NOTICE: User login successful.
+2024-10-01T12:07:05.582927Z my-server mysql[3628]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T12:10:10.582927Z my-server sshd[26670]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T12:11:02.582927Z my-server systemd[38184]: ERROR: Failed to mount NFS share.
+2024-10-01T12:13:36.582927Z my-server systemd[7936]: ERROR: Database connection failed.
+2024-10-01T12:16:34.582927Z my-server kernel[16273]: NOTICE: Configuration file loaded successfully.
+2024-10-01T12:20:10.582927Z my-server apache2[4912]: NOTICE: User login successful.
+2024-10-01T12:23:05.582927Z my-server systemd[25631]: NOTICE: System health check passed.
+2024-10-01T12:27:07.582927Z my-server sshd[30587]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T12:27:36.582927Z my-server systemd[36346]: ERROR: Failed to start MySQL service.
+2024-10-01T12:30:29.582927Z my-server mysql[14419]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T12:33:09.582927Z my-server apache2[26849]: NOTICE: Network interface eth0 brought up.
+2024-10-01T12:33:10.582927Z my-server mysql[29860]: ERROR: Critical system service crashed.
+2024-10-01T12:34:18.582927Z my-server kernel[45580]: NOTICE: User login successful.
+2024-10-01T12:36:34.582927Z my-server apache2[49778]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T12:40:10.582927Z my-server systemd[4943]: WARNING: High memory usage detected: 95% used.
+2024-10-01T12:43:05.582927Z my-server mysql[44998]: ERROR: Database connection failed.
+2024-10-01T12:44:11.582927Z my-server kernel[11701]: ERROR: Critical system service crashed.
+2024-10-01T12:45:28.582927Z my-server sshd[29283]: NOTICE: System health check passed.
+2024-10-01T12:49:21.582927Z my-server apache2[42314]: NOTICE: Network interface eth0 brought up.
+2024-10-01T12:53:20.582927Z my-server mysql[49878]: NOTICE: User login successful.
+2024-10-01T12:57:06.582927Z my-server systemd[47329]: ERROR: Failed to mount NFS share.
+2024-10-01T13:02:03.582927Z my-server mysql[5073]: NOTICE: Network interface eth0 brought up.
+2024-10-01T13:06:57.582927Z my-server systemd[20126]: NOTICE: Network interface eth0 brought up.
+2024-10-01T13:09:46.582927Z my-server sshd[21448]: NOTICE: Network interface eth0 brought up.
+2024-10-01T13:12:46.582927Z my-server sshd[12180]: WARNING: High memory usage detected: 95% used.
+2024-10-01T13:14:01.582927Z my-server mysql[41443]: ERROR: Failed to mount NFS share.
+2024-10-01T13:14:54.582927Z my-server sshd[27471]: WARNING: High memory usage detected: 95% used.
+2024-10-01T13:18:16.582927Z my-server kernel[4531]: WARNING: High memory usage detected: 95% used.
+2024-10-01T13:18:19.582927Z my-server mysql[40102]: NOTICE: System health check passed.
+2024-10-01T13:20:50.582927Z my-server mysql[16496]: NOTICE: Network interface eth0 brought up.
+2024-10-01T13:21:58.582927Z my-server kernel[21333]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T13:22:39.582927Z my-server mysql[1712]: NOTICE: User login successful.
+2024-10-01T13:27:35.582927Z my-server sshd[14420]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T13:27:45.582927Z my-server systemd[49545]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T13:31:20.582927Z my-server systemd[46467]: NOTICE: Configuration file loaded successfully.
+2024-10-01T13:32:55.582927Z my-server apache2[43462]: NOTICE: User login successful.
+2024-10-01T13:36:57.582927Z my-server mysql[17257]: NOTICE: Network interface eth0 brought up.
+2024-10-01T13:38:26.582927Z my-server apache2[15056]: NOTICE: System health check passed.
+2024-10-01T13:41:32.582927Z my-server apache2[20810]: NOTICE: Network interface eth0 brought up.
+2024-10-01T13:45:05.582927Z my-server kernel[37656]: NOTICE: System health check passed.
+2024-10-01T13:46:13.582927Z my-server apache2[25955]: NOTICE: Network interface eth0 brought up.
+2024-10-01T13:48:56.582927Z my-server mysql[25958]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T13:53:42.582927Z my-server kernel[7504]: NOTICE: Network interface eth0 brought up.
+2024-10-01T13:56:30.582927Z my-server mysql[2869]: ERROR: Failed to start MySQL service.
+2024-10-01T14:00:22.582927Z my-server apache2[42864]: ERROR: Failed to start MySQL service.
+2024-10-01T14:00:52.582927Z my-server mysql[17359]: NOTICE: System health check passed.
+2024-10-01T14:05:02.582927Z my-server systemd[31855]: NOTICE: Configuration file loaded successfully.
+2024-10-01T14:05:36.582927Z my-server kernel[22169]: ERROR: Database connection failed.
+2024-10-01T14:07:04.582927Z my-server systemd[14949]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T14:09:00.582927Z my-server apache2[38452]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T14:10:15.582927Z my-server sshd[1267]: ERROR: Critical system service crashed.
+2024-10-01T14:12:41.582927Z my-server systemd[29022]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T14:16:40.582927Z my-server mysql[19227]: NOTICE: Configuration file loaded successfully.
+2024-10-01T14:21:30.582927Z my-server systemd[32169]: NOTICE: User login successful.
+2024-10-01T14:26:27.582927Z my-server apache2[23344]: NOTICE: Network interface eth0 brought up.
+2024-10-01T14:29:25.582927Z my-server sshd[23640]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T14:31:27.582927Z my-server apache2[17042]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T14:35:21.582927Z my-server mysql[11420]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T14:37:32.582927Z my-server mysql[32072]: ERROR: Critical system service crashed.
+2024-10-01T14:40:29.582927Z my-server apache2[41605]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T14:43:16.582927Z my-server apache2[46070]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T14:47:52.582927Z my-server apache2[40368]: ERROR: Database connection failed.
+2024-10-01T14:49:53.582927Z my-server apache2[26563]: WARNING: High memory usage detected: 95% used.
+2024-10-01T14:52:36.582927Z my-server sshd[47934]: ERROR: Database connection failed.
+2024-10-01T14:54:56.582927Z my-server systemd[11629]: ERROR: Critical system service crashed.
+2024-10-01T14:55:04.582927Z my-server apache2[40162]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T14:59:36.582927Z my-server systemd[29598]: WARNING: High memory usage detected: 95% used.
+2024-10-01T15:04:33.582927Z my-server apache2[48409]: ERROR: Failed to mount NFS share.
+2024-10-01T15:06:02.582927Z my-server systemd[10549]: NOTICE: Network interface eth0 brought up.
+2024-10-01T15:10:20.582927Z my-server mysql[5724]: NOTICE: Network interface eth0 brought up.
+2024-10-01T15:11:52.582927Z my-server kernel[25839]: ERROR: Database connection failed.
+2024-10-01T15:12:37.582927Z my-server sshd[7462]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T15:16:19.582927Z my-server sshd[17643]: NOTICE: User login successful.
+2024-10-01T15:17:00.582927Z my-server mysql[38340]: ERROR: Critical system service crashed.
+2024-10-01T15:18:38.582927Z my-server mysql[11695]: NOTICE: Network interface eth0 brought up.
+2024-10-01T15:23:26.582927Z my-server systemd[5855]: ERROR: Failed to start MySQL service.
+2024-10-01T15:25:12.582927Z my-server mysql[20203]: ERROR: Failed to start MySQL service.
+2024-10-01T15:28:06.582927Z my-server sshd[3945]: ERROR: Critical system service crashed.
+2024-10-01T15:32:02.582927Z my-server mysql[38504]: WARNING: Low available disk space on /home partition.
+2024-10-01T15:35:41.582927Z my-server systemd[8303]: WARNING: High memory usage detected: 95% used.
+2024-10-01T15:37:45.582927Z my-server systemd[43721]: ERROR: Database connection failed.
+2024-10-01T15:39:12.582927Z my-server mysql[30260]: WARNING: High memory usage detected: 95% used.
+2024-10-01T15:43:09.582927Z my-server apache2[25920]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T15:46:35.582927Z my-server systemd[16981]: ERROR: Critical system service crashed.
+2024-10-01T15:48:10.582927Z my-server sshd[49980]: ERROR: Database connection failed.
+2024-10-01T15:48:48.582927Z my-server kernel[43438]: NOTICE: Configuration file loaded successfully.
+2024-10-01T15:49:59.582927Z my-server apache2[41444]: NOTICE: User login successful.
+2024-10-01T15:50:52.582927Z my-server sshd[17186]: NOTICE: Network interface eth0 brought up.
+2024-10-01T15:52:19.582927Z my-server kernel[32627]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T15:55:14.582927Z my-server systemd[20188]: WARNING: High memory usage detected: 95% used.
+2024-10-01T15:55:17.582927Z my-server apache2[33902]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T15:58:59.582927Z my-server mysql[30330]: ERROR: Database connection failed.
+2024-10-01T15:59:38.582927Z my-server systemd[33931]: ERROR: Database connection failed.
+2024-10-01T16:00:58.582927Z my-server sshd[4404]: ERROR: Database connection failed.
+2024-10-01T16:03:02.582927Z my-server systemd[42589]: NOTICE: Network interface eth0 brought up.
+2024-10-01T16:07:19.582927Z my-server mysql[11182]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T16:07:37.582927Z my-server kernel[2891]: ERROR: Critical system service crashed.
+2024-10-01T16:09:28.582927Z my-server apache2[42202]: ERROR: Database connection failed.
+2024-10-01T16:12:42.582927Z my-server kernel[42305]: NOTICE: System health check passed.
+2024-10-01T16:12:49.582927Z my-server systemd[26086]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T16:17:24.582927Z my-server mysql[29464]: ERROR: Failed to mount NFS share.
+2024-10-01T16:18:50.582927Z my-server kernel[27741]: WARNING: Low available disk space on /home partition.
+2024-10-01T16:22:58.582927Z my-server systemd[15651]: WARNING: High memory usage detected: 95% used.
+2024-10-01T16:27:58.582927Z my-server kernel[4567]: NOTICE: User login successful.
+2024-10-01T16:28:21.582927Z my-server systemd[48975]: NOTICE: Configuration file loaded successfully.
+2024-10-01T16:28:55.582927Z my-server mysql[18594]: WARNING: High memory usage detected: 95% used.
+2024-10-01T16:33:36.582927Z my-server kernel[49253]: NOTICE: Configuration file loaded successfully.
+2024-10-01T16:34:01.582927Z my-server apache2[40837]: NOTICE: Network interface eth0 brought up.
+2024-10-01T16:36:28.582927Z my-server systemd[44069]: NOTICE: System health check passed.
+2024-10-01T16:37:31.582927Z my-server apache2[12230]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T16:38:20.582927Z my-server sshd[9509]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T16:40:37.582927Z my-server systemd[32551]: ERROR: Database connection failed.
+2024-10-01T16:42:00.582927Z my-server systemd[44876]: ERROR: Failed to mount NFS share.
+2024-10-01T16:42:24.582927Z my-server sshd[49617]: ERROR: Failed to start MySQL service.
+2024-10-01T16:45:40.582927Z my-server kernel[44399]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T16:47:02.582927Z my-server sshd[32857]: NOTICE: Configuration file loaded successfully.
+2024-10-01T16:47:16.582927Z my-server mysql[3980]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T16:50:30.582927Z my-server kernel[35305]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T16:52:35.582927Z my-server mysql[17169]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T16:53:33.582927Z my-server mysql[39050]: ERROR: Critical system service crashed.
+2024-10-01T16:55:56.582927Z my-server kernel[1816]: ERROR: Failed to mount NFS share.
+2024-10-01T16:59:59.582927Z my-server systemd[16819]: ERROR: Database connection failed.
+2024-10-01T17:00:39.582927Z my-server apache2[28633]: NOTICE: Network interface eth0 brought up.
+2024-10-01T17:05:27.582927Z my-server kernel[20333]: WARNING: High memory usage detected: 95% used.
+2024-10-01T17:10:02.582927Z my-server kernel[32415]: WARNING: High memory usage detected: 95% used.
+2024-10-01T17:14:03.582927Z my-server sshd[21298]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T17:14:10.582927Z my-server systemd[33631]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T17:15:03.582927Z my-server mysql[41754]: NOTICE: User login successful.
+2024-10-01T17:16:07.582927Z my-server sshd[46381]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T17:20:57.582927Z my-server systemd[34383]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T17:21:47.582927Z my-server apache2[8950]: NOTICE: Network interface eth0 brought up.
+2024-10-01T17:26:14.582927Z my-server apache2[11563]: WARNING: High memory usage detected: 95% used.
+2024-10-01T17:27:41.582927Z my-server systemd[4299]: NOTICE: System health check passed.
+2024-10-01T17:28:59.582927Z my-server mysql[14073]: NOTICE: Configuration file loaded successfully.
+2024-10-01T17:31:25.582927Z my-server apache2[34718]: WARNING: Low available disk space on /home partition.
+2024-10-01T17:34:00.582927Z my-server mysql[15546]: NOTICE: User login successful.
+2024-10-01T17:34:17.582927Z my-server sshd[30590]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T17:38:48.582927Z my-server kernel[16888]: WARNING: High memory usage detected: 95% used.
+2024-10-01T17:43:26.582927Z my-server kernel[10005]: ERROR: Database connection failed.
+2024-10-01T17:43:57.582927Z my-server sshd[34363]: ERROR: Critical system service crashed.
+2024-10-01T17:44:01.582927Z my-server systemd[41120]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T17:47:30.582927Z my-server kernel[42534]: ERROR: Failed to start MySQL service.
+2024-10-01T17:48:50.582927Z my-server apache2[9810]: ERROR: Failed to mount NFS share.
+2024-10-01T17:53:39.582927Z my-server mysql[43972]: WARNING: High memory usage detected: 95% used.
+2024-10-01T17:56:53.582927Z my-server kernel[18137]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T18:01:25.582927Z my-server apache2[41801]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T18:03:51.582927Z my-server apache2[23496]: ERROR: Failed to mount NFS share.
+2024-10-01T18:08:19.582927Z my-server mysql[29605]: ERROR: Failed to mount NFS share.
+2024-10-01T18:12:24.582927Z my-server systemd[38249]: ERROR: Failed to mount NFS share.
+2024-10-01T18:15:19.582927Z my-server sshd[30000]: ERROR: Critical system service crashed.
+2024-10-01T18:15:36.582927Z my-server sshd[8198]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T18:16:14.582927Z my-server mysql[28446]: ERROR: Database connection failed.
+2024-10-01T18:18:27.582927Z my-server apache2[42017]: ERROR: Failed to start MySQL service.
+2024-10-01T18:22:26.582927Z my-server sshd[48793]: NOTICE: User login successful.
+2024-10-01T18:24:52.582927Z my-server kernel[13223]: ERROR: Critical system service crashed.
+2024-10-01T18:28:01.582927Z my-server kernel[4716]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T18:29:06.582927Z my-server systemd[48973]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T18:30:53.582927Z my-server apache2[10022]: NOTICE: Network interface eth0 brought up.
+2024-10-01T18:31:25.582927Z my-server apache2[42448]: WARNING: High memory usage detected: 95% used.
+2024-10-01T18:32:51.582927Z my-server systemd[14089]: ERROR: Failed to mount NFS share.
+2024-10-01T18:33:57.582927Z my-server sshd[47955]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T18:38:06.582927Z my-server sshd[26014]: WARNING: High memory usage detected: 95% used.
+2024-10-01T18:41:01.582927Z my-server mysql[40497]: WARNING: High memory usage detected: 95% used.
+2024-10-01T18:43:06.582927Z my-server sshd[46060]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T18:43:10.582927Z my-server sshd[12758]: ERROR: Critical system service crashed.
+2024-10-01T18:47:18.582927Z my-server sshd[47008]: ERROR: Failed to start MySQL service.
+2024-10-01T18:50:33.582927Z my-server sshd[32679]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T18:55:05.582927Z my-server kernel[2877]: WARNING: High memory usage detected: 95% used.
+2024-10-01T18:57:38.582927Z my-server apache2[37914]: NOTICE: Configuration file loaded successfully.
+2024-10-01T19:00:17.582927Z my-server apache2[43247]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T19:03:41.582927Z my-server apache2[33176]: ERROR: Critical system service crashed.
+2024-10-01T19:06:07.582927Z my-server apache2[17059]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T19:10:57.582927Z my-server sshd[45849]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T19:12:05.582927Z my-server mysql[5845]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T19:16:27.582927Z my-server apache2[18760]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T19:17:31.582927Z my-server apache2[20273]: WARNING: High memory usage detected: 95% used.
+2024-10-01T19:22:05.582927Z my-server systemd[29459]: WARNING: High memory usage detected: 95% used.
+2024-10-01T19:25:42.582927Z my-server kernel[45392]: NOTICE: Configuration file loaded successfully.
+2024-10-01T19:26:15.582927Z my-server sshd[30172]: WARNING: Low available disk space on /home partition.
+2024-10-01T19:30:11.582927Z my-server apache2[8846]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T19:33:34.582927Z my-server apache2[36135]: WARNING: Low available disk space on /home partition.
+2024-10-01T19:36:08.582927Z my-server mysql[38339]: NOTICE: System health check passed.
+2024-10-01T19:40:11.582927Z my-server systemd[2764]: WARNING: Low available disk space on /home partition.
+2024-10-01T19:42:07.582927Z my-server systemd[25264]: NOTICE: Network interface eth0 brought up.
+2024-10-01T19:42:36.582927Z my-server mysql[37533]: ERROR: Database connection failed.
+2024-10-01T19:44:36.582927Z my-server sshd[24002]: NOTICE: Configuration file loaded successfully.
+2024-10-01T19:47:06.582927Z my-server systemd[35314]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T19:51:40.582927Z my-server mysql[35690]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T19:55:04.582927Z my-server kernel[15131]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T19:56:19.582927Z my-server kernel[29877]: WARNING: High memory usage detected: 95% used.
+2024-10-01T19:56:43.582927Z my-server apache2[30777]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T20:00:14.582927Z my-server systemd[37335]: NOTICE: User login successful.
+2024-10-01T20:03:15.582927Z my-server apache2[6104]: ERROR: Failed to mount NFS share.
+2024-10-01T20:06:54.582927Z my-server kernel[47611]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T20:10:36.582927Z my-server systemd[26076]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T20:11:33.582927Z my-server apache2[17372]: ERROR: Database connection failed.
+2024-10-01T20:13:47.582927Z my-server apache2[23320]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T20:18:03.582927Z my-server apache2[21751]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T20:21:02.582927Z my-server systemd[44676]: NOTICE: System health check passed.
+2024-10-01T20:24:36.582927Z my-server apache2[34887]: ERROR: Critical system service crashed.
+2024-10-01T20:24:45.582927Z my-server kernel[10699]: ERROR: Database connection failed.
+2024-10-01T20:25:15.582927Z my-server systemd[18709]: ERROR: Database connection failed.
+2024-10-01T20:28:32.582927Z my-server sshd[18529]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T20:31:21.582927Z my-server sshd[36086]: NOTICE: System health check passed.
+2024-10-01T20:35:15.582927Z my-server kernel[16917]: ERROR: Failed to mount NFS share.
+2024-10-01T20:39:26.582927Z my-server systemd[12385]: NOTICE: System health check passed.
+2024-10-01T20:40:04.582927Z my-server mysql[40104]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T20:41:56.582927Z my-server mysql[49904]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T20:44:30.582927Z my-server kernel[13448]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T20:45:56.582927Z my-server systemd[24579]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T20:50:36.582927Z my-server apache2[43559]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T20:53:12.582927Z my-server mysql[11980]: ERROR: Critical system service crashed.
+2024-10-01T20:54:23.582927Z my-server systemd[25290]: WARNING: High memory usage detected: 95% used.
+2024-10-01T20:55:35.582927Z my-server mysql[15794]: ERROR: Failed to mount NFS share.
+2024-10-01T20:59:18.582927Z my-server systemd[25827]: ERROR: Database connection failed.
+2024-10-01T21:00:01.582927Z my-server systemd[4498]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T21:01:42.582927Z my-server kernel[36993]: ERROR: Failed to start MySQL service.
+2024-10-01T21:04:35.582927Z my-server apache2[26491]: ERROR: Critical system service crashed.
+2024-10-01T21:07:57.582927Z my-server mysql[48251]: NOTICE: Network interface eth0 brought up.
+2024-10-01T21:09:40.582927Z my-server mysql[9846]: NOTICE: Configuration file loaded successfully.
+2024-10-01T21:11:46.582927Z my-server systemd[9054]: ERROR: Failed to start MySQL service.
+2024-10-01T21:16:37.582927Z my-server kernel[26661]: ERROR: Database connection failed.
+2024-10-01T21:19:58.582927Z my-server sshd[17024]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T21:22:20.582927Z my-server sshd[40191]: NOTICE: Configuration file loaded successfully.
+2024-10-01T21:23:08.582927Z my-server systemd[49965]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T21:27:39.582927Z my-server sshd[19710]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T21:28:40.582927Z my-server apache2[47078]: NOTICE: System health check passed.
+2024-10-01T21:32:54.582927Z my-server apache2[42546]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T21:36:21.582927Z my-server sshd[7416]: WARNING: Low available disk space on /home partition.
+2024-10-01T21:40:38.582927Z my-server mysql[30039]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T21:45:12.582927Z my-server sshd[42661]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T21:48:05.582927Z my-server mysql[45730]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T21:50:18.582927Z my-server kernel[28866]: WARNING: High memory usage detected: 95% used.
+2024-10-01T21:53:44.582927Z my-server apache2[9659]: NOTICE: Configuration file loaded successfully.
+2024-10-01T21:57:18.582927Z my-server systemd[16999]: ERROR: Failed to mount NFS share.
+2024-10-01T21:59:57.582927Z my-server mysql[46583]: ERROR: Critical system service crashed.
+2024-10-01T22:02:23.582927Z my-server mysql[14753]: WARNING: Low available disk space on /home partition.
+2024-10-01T22:05:19.582927Z my-server kernel[35546]: ERROR: Failed to mount NFS share.
+2024-10-01T22:05:20.582927Z my-server kernel[9377]: NOTICE: User login successful.
+2024-10-01T22:05:37.582927Z my-server sshd[42469]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T22:08:49.582927Z my-server mysql[48497]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T22:11:01.582927Z my-server apache2[20736]: NOTICE: User login successful.
+2024-10-01T22:15:21.582927Z my-server sshd[9722]: NOTICE: Network interface eth0 brought up.
+2024-10-01T22:16:21.582927Z my-server mysql[10409]: NOTICE: System health check passed.
+2024-10-01T22:17:23.582927Z my-server kernel[37683]: NOTICE: System health check passed.
+2024-10-01T22:20:56.582927Z my-server kernel[28075]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T22:24:43.582927Z my-server mysql[2522]: ERROR: Database connection failed.
+2024-10-01T22:25:10.582927Z my-server kernel[18954]: NOTICE: Network interface eth0 brought up.
+2024-10-01T22:28:02.582927Z my-server systemd[39216]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T22:32:17.582927Z my-server apache2[1817]: NOTICE: Network interface eth0 brought up.
+2024-10-01T22:35:56.582927Z my-server kernel[8080]: NOTICE: User login successful.
+2024-10-01T22:37:23.582927Z my-server sshd[1353]: NOTICE: System health check passed.
+2024-10-01T22:37:30.582927Z my-server apache2[35929]: WARNING: High memory usage detected: 95% used.
+2024-10-01T22:42:06.582927Z my-server apache2[1989]: ERROR: Failed to mount NFS share.
+2024-10-01T22:44:28.582927Z my-server mysql[16323]: ERROR: Failed to start MySQL service.
+2024-10-01T22:46:52.582927Z my-server kernel[49706]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T22:49:30.582927Z my-server mysql[15740]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T22:49:35.582927Z my-server apache2[7672]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T22:54:18.582927Z my-server mysql[31855]: ERROR: Database connection failed.
+2024-10-01T22:56:34.582927Z my-server mysql[16948]: WARNING: High memory usage detected: 95% used.
+2024-10-01T23:00:19.582927Z my-server apache2[19745]: NOTICE: System health check passed.
+2024-10-01T23:00:21.582927Z my-server kernel[21761]: ERROR: Failed to start MySQL service.
+2024-10-01T23:03:38.582927Z my-server sshd[41473]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T23:06:01.582927Z my-server apache2[1056]: NOTICE: Configuration file loaded successfully.
+2024-10-01T23:09:56.582927Z my-server systemd[1023]: NOTICE: Configuration file loaded successfully.
+2024-10-01T23:14:44.582927Z my-server sshd[12983]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T23:15:56.582927Z my-server apache2[2802]: ERROR: Failed to mount NFS share.
+2024-10-01T23:19:21.582927Z my-server sshd[6531]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-01T23:20:45.582927Z my-server apache2[12221]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-01T23:22:22.582927Z my-server mysql[10559]: WARNING: Low available disk space on /home partition.
+2024-10-01T23:27:15.582927Z my-server kernel[39172]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T23:29:04.582927Z my-server systemd[1132]: WARNING: Disk read/write latency above normal levels.
+2024-10-01T23:32:39.582927Z my-server apache2[28819]: NOTICE: User login successful.
+2024-10-01T23:36:07.582927Z my-server systemd[1785]: NOTICE: Service apache2 restarted successfully.
+2024-10-01T23:40:34.582927Z my-server sshd[36451]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-01T23:45:08.582927Z my-server apache2[24892]: WARNING: High memory usage detected: 95% used.
+2024-10-01T23:47:55.582927Z my-server kernel[38081]: NOTICE: Network interface eth0 brought up.
+2024-10-01T23:48:26.582927Z my-server sshd[31005]: NOTICE: Configuration file loaded successfully.
+2024-10-01T23:53:22.582927Z my-server mysql[32527]: ERROR: Failed to start MySQL service.
+2024-10-01T23:55:24.582927Z my-server kernel[46077]: NOTICE: User login successful.
+2024-10-01T23:56:54.582927Z my-server systemd[12600]: NOTICE: Network interface eth0 brought up.
+2024-10-01T23:57:48.582927Z my-server kernel[5856]: ERROR: Failed to mount NFS share.
+2024-10-01T23:59:44.582927Z my-server systemd[42824]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T00:03:33.582927Z my-server kernel[36143]: WARNING: High memory usage detected: 95% used.
+2024-10-02T00:04:14.582927Z my-server systemd[29385]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T00:04:51.582927Z my-server sshd[14399]: NOTICE: Configuration file loaded successfully.
+2024-10-02T00:07:44.582927Z my-server systemd[44700]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T00:10:15.582927Z my-server systemd[9829]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T00:15:12.582927Z my-server mysql[12843]: NOTICE: Network interface eth0 brought up.
+2024-10-02T00:18:29.582927Z my-server mysql[24443]: NOTICE: Configuration file loaded successfully.
+2024-10-02T00:18:39.582927Z my-server mysql[38451]: WARNING: High memory usage detected: 95% used.
+2024-10-02T00:18:51.582927Z my-server apache2[45922]: NOTICE: Configuration file loaded successfully.
+2024-10-02T00:19:43.582927Z my-server systemd[30719]: NOTICE: Network interface eth0 brought up.
+2024-10-02T00:23:44.582927Z my-server kernel[39749]: ERROR: Failed to mount NFS share.
+2024-10-02T00:24:27.582927Z my-server systemd[33476]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T00:27:48.582927Z my-server systemd[5352]: NOTICE: Network interface eth0 brought up.
+2024-10-02T00:31:51.582927Z my-server apache2[3556]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T00:32:23.582927Z my-server kernel[2940]: ERROR: Critical system service crashed.
+2024-10-02T00:36:11.582927Z my-server mysql[9011]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T00:37:53.582927Z my-server mysql[1954]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T00:42:48.582927Z my-server sshd[17824]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T00:47:03.582927Z my-server apache2[24755]: NOTICE: Network interface eth0 brought up.
+2024-10-02T00:48:12.582927Z my-server mysql[42546]: NOTICE: System health check passed.
+2024-10-02T00:52:50.582927Z my-server sshd[48253]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T00:54:48.582927Z my-server apache2[5153]: NOTICE: Configuration file loaded successfully.
+2024-10-02T00:56:32.582927Z my-server sshd[15967]: ERROR: Failed to start MySQL service.
+2024-10-02T00:59:37.582927Z my-server kernel[15300]: NOTICE: Network interface eth0 brought up.
+2024-10-02T01:01:32.582927Z my-server kernel[27346]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T01:02:44.582927Z my-server kernel[23700]: ERROR: Failed to mount NFS share.
+2024-10-02T01:05:35.582927Z my-server systemd[2715]: NOTICE: User login successful.
+2024-10-02T01:09:09.582927Z my-server sshd[7302]: ERROR: Failed to mount NFS share.
+2024-10-02T01:10:11.582927Z my-server sshd[23436]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T01:14:57.582927Z my-server apache2[6688]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T01:18:10.582927Z my-server mysql[10260]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T01:20:09.582927Z my-server sshd[41057]: NOTICE: Network interface eth0 brought up.
+2024-10-02T01:23:02.582927Z my-server kernel[12954]: NOTICE: Configuration file loaded successfully.
+2024-10-02T01:26:02.582927Z my-server sshd[45867]: NOTICE: Configuration file loaded successfully.
+2024-10-02T01:27:51.582927Z my-server kernel[32887]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T01:30:26.582927Z my-server apache2[26074]: ERROR: Failed to mount NFS share.
+2024-10-02T01:31:46.582927Z my-server mysql[49054]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T01:32:47.582927Z my-server kernel[40482]: NOTICE: System health check passed.
+2024-10-02T01:36:53.582927Z my-server mysql[25982]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T01:39:08.582927Z my-server apache2[12819]: NOTICE: Configuration file loaded successfully.
+2024-10-02T01:43:51.582927Z my-server kernel[36554]: WARNING: High memory usage detected: 95% used.
+2024-10-02T01:45:21.582927Z my-server mysql[44491]: NOTICE: User login successful.
+2024-10-02T01:46:14.582927Z my-server sshd[13621]: ERROR: Failed to start MySQL service.
+2024-10-02T01:46:30.582927Z my-server kernel[43407]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T01:47:38.582927Z my-server mysql[6417]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T01:48:01.582927Z my-server mysql[1856]: NOTICE: Configuration file loaded successfully.
+2024-10-02T01:52:13.582927Z my-server systemd[43200]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T01:55:14.582927Z my-server kernel[33383]: NOTICE: System health check passed.
+2024-10-02T01:58:19.582927Z my-server sshd[39314]: ERROR: Critical system service crashed.
+2024-10-02T01:59:12.582927Z my-server kernel[22451]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T02:00:14.582927Z my-server apache2[3594]: ERROR: Database connection failed.
+2024-10-02T02:00:24.582927Z my-server kernel[20534]: ERROR: Database connection failed.
+2024-10-02T02:04:34.582927Z my-server sshd[31611]: NOTICE: Network interface eth0 brought up.
+2024-10-02T02:08:05.582927Z my-server systemd[27796]: ERROR: Failed to start MySQL service.
+2024-10-02T02:11:58.582927Z my-server systemd[19621]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T02:16:02.582927Z my-server kernel[43429]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T02:20:03.582927Z my-server sshd[22349]: ERROR: Failed to start MySQL service.
+2024-10-02T02:25:01.582927Z my-server apache2[13517]: ERROR: Database connection failed.
+2024-10-02T02:28:36.582927Z my-server sshd[35037]: WARNING: Low available disk space on /home partition.
+2024-10-02T02:33:21.582927Z my-server mysql[9272]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T02:38:12.582927Z my-server systemd[30263]: NOTICE: Configuration file loaded successfully.
+2024-10-02T02:41:00.582927Z my-server apache2[45509]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T02:43:13.582927Z my-server apache2[37191]: ERROR: Failed to start MySQL service.
+2024-10-02T02:46:08.582927Z my-server systemd[26910]: ERROR: Database connection failed.
+2024-10-02T02:49:01.582927Z my-server sshd[40681]: WARNING: Low available disk space on /home partition.
+2024-10-02T02:52:49.582927Z my-server kernel[16770]: ERROR: Failed to mount NFS share.
+2024-10-02T02:55:52.582927Z my-server sshd[4073]: ERROR: Database connection failed.
+2024-10-02T02:57:30.582927Z my-server apache2[40946]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T02:57:53.582927Z my-server kernel[16630]: WARNING: Low available disk space on /home partition.
+2024-10-02T02:59:07.582927Z my-server systemd[38067]: ERROR: Failed to mount NFS share.
+2024-10-02T03:02:54.582927Z my-server kernel[2878]: NOTICE: Configuration file loaded successfully.
+2024-10-02T03:06:37.582927Z my-server mysql[34719]: NOTICE: Configuration file loaded successfully.
+2024-10-02T03:07:48.582927Z my-server kernel[29805]: WARNING: Low available disk space on /home partition.
+2024-10-02T03:11:23.582927Z my-server mysql[11586]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T03:13:45.582927Z my-server sshd[19263]: NOTICE: Configuration file loaded successfully.
+2024-10-02T03:17:26.582927Z my-server mysql[31671]: WARNING: High memory usage detected: 95% used.
+2024-10-02T03:20:39.582927Z my-server sshd[10110]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T03:20:45.582927Z my-server systemd[31054]: NOTICE: User login successful.
+2024-10-02T03:24:37.582927Z my-server kernel[45793]: NOTICE: Configuration file loaded successfully.
+2024-10-02T03:28:11.582927Z my-server apache2[39089]: ERROR: Failed to mount NFS share.
+2024-10-02T03:30:54.582927Z my-server sshd[29768]: ERROR: Failed to mount NFS share.
+2024-10-02T03:33:35.582927Z my-server sshd[5023]: ERROR: Failed to start MySQL service.
+2024-10-02T03:34:36.582927Z my-server sshd[4452]: WARNING: Low available disk space on /home partition.
+2024-10-02T03:39:06.582927Z my-server apache2[6064]: ERROR: Failed to start MySQL service.
+2024-10-02T03:41:42.582927Z my-server apache2[44851]: ERROR: Database connection failed.
+2024-10-02T03:46:03.582927Z my-server systemd[14016]: ERROR: Failed to mount NFS share.
+2024-10-02T03:47:05.582927Z my-server mysql[1507]: NOTICE: User login successful.
+2024-10-02T03:49:30.582927Z my-server mysql[16417]: ERROR: Critical system service crashed.
+2024-10-02T03:52:19.582927Z my-server kernel[29586]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T03:52:53.582927Z my-server kernel[39768]: ERROR: Critical system service crashed.
+2024-10-02T03:56:05.582927Z my-server sshd[14498]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T03:59:42.582927Z my-server systemd[32618]: ERROR: Failed to start MySQL service.
+2024-10-02T04:02:30.582927Z my-server kernel[14612]: NOTICE: System health check passed.
+2024-10-02T04:04:23.582927Z my-server mysql[30733]: NOTICE: System health check passed.
+2024-10-02T04:06:53.582927Z my-server systemd[29891]: NOTICE: Network interface eth0 brought up.
+2024-10-02T04:08:46.582927Z my-server sshd[37826]: NOTICE: User login successful.
+2024-10-02T04:09:22.582927Z my-server kernel[11116]: NOTICE: System health check passed.
+2024-10-02T04:10:41.582927Z my-server sshd[32956]: NOTICE: Network interface eth0 brought up.
+2024-10-02T04:13:08.582927Z my-server mysql[26409]: ERROR: Database connection failed.
+2024-10-02T04:14:20.582927Z my-server apache2[18771]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T04:15:25.582927Z my-server apache2[34822]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T04:18:10.582927Z my-server kernel[32333]: ERROR: Critical system service crashed.
+2024-10-02T04:19:53.582927Z my-server kernel[29867]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T04:20:45.582927Z my-server apache2[31305]: WARNING: Low available disk space on /home partition.
+2024-10-02T04:21:26.582927Z my-server mysql[14470]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T04:25:07.582927Z my-server apache2[37039]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T04:25:54.582927Z my-server kernel[15063]: NOTICE: System health check passed.
+2024-10-02T04:28:50.582927Z my-server mysql[11117]: NOTICE: Configuration file loaded successfully.
+2024-10-02T04:31:18.582927Z my-server sshd[35411]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T04:34:26.582927Z my-server sshd[49840]: WARNING: High memory usage detected: 95% used.
+2024-10-02T04:38:48.582927Z my-server systemd[7117]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T04:40:28.582927Z my-server systemd[27940]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T04:45:07.582927Z my-server mysql[24980]: ERROR: Failed to start MySQL service.
+2024-10-02T04:47:51.582927Z my-server systemd[5787]: NOTICE: Configuration file loaded successfully.
+2024-10-02T04:50:05.582927Z my-server mysql[22956]: NOTICE: Configuration file loaded successfully.
+2024-10-02T04:54:42.582927Z my-server kernel[27354]: ERROR: Critical system service crashed.
+2024-10-02T04:55:33.582927Z my-server systemd[40347]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T05:00:07.582927Z my-server apache2[14426]: NOTICE: Configuration file loaded successfully.
+2024-10-02T05:02:40.582927Z my-server kernel[46696]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T05:05:23.582927Z my-server systemd[24985]: NOTICE: Configuration file loaded successfully.
+2024-10-02T05:06:37.582927Z my-server mysql[1749]: ERROR: Failed to start MySQL service.
+2024-10-02T05:06:42.582927Z my-server apache2[22662]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T05:07:56.582927Z my-server mysql[33023]: NOTICE: Configuration file loaded successfully.
+2024-10-02T05:12:29.582927Z my-server mysql[21476]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T05:15:32.582927Z my-server systemd[24556]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T05:18:17.582927Z my-server mysql[8416]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T05:19:33.582927Z my-server sshd[6797]: ERROR: Database connection failed.
+2024-10-02T05:23:43.582927Z my-server kernel[31447]: ERROR: Critical system service crashed.
+2024-10-02T05:23:47.582927Z my-server apache2[47180]: NOTICE: User login successful.
+2024-10-02T05:26:36.582927Z my-server systemd[48311]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T05:28:02.582927Z my-server apache2[5350]: NOTICE: Configuration file loaded successfully.
+2024-10-02T05:28:33.582927Z my-server mysql[1232]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T05:32:41.582927Z my-server systemd[37160]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T05:35:49.582927Z my-server mysql[22077]: ERROR: Critical system service crashed.
+2024-10-02T05:39:03.582927Z my-server apache2[26535]: NOTICE: User login successful.
+2024-10-02T05:39:20.582927Z my-server apache2[4815]: ERROR: Failed to start MySQL service.
+2024-10-02T05:42:42.582927Z my-server mysql[10963]: ERROR: Critical system service crashed.
+2024-10-02T05:47:42.582927Z my-server systemd[25580]: ERROR: Critical system service crashed.
+2024-10-02T05:52:02.582927Z my-server systemd[21961]: NOTICE: Configuration file loaded successfully.
+2024-10-02T05:54:20.582927Z my-server apache2[19553]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T05:57:24.582927Z my-server sshd[7733]: WARNING: High memory usage detected: 95% used.
+2024-10-02T05:58:16.582927Z my-server apache2[27954]: ERROR: Failed to mount NFS share.
+2024-10-02T05:58:23.582927Z my-server systemd[30413]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T05:58:53.582927Z my-server systemd[18269]: ERROR: Critical system service crashed.
+2024-10-02T06:01:26.582927Z my-server sshd[46806]: NOTICE: System health check passed.
+2024-10-02T06:04:35.582927Z my-server mysql[20523]: WARNING: Low available disk space on /home partition.
+2024-10-02T06:08:30.582927Z my-server mysql[44946]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T06:09:01.582927Z my-server kernel[6654]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T06:10:15.582927Z my-server apache2[24239]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T06:10:18.582927Z my-server mysql[43832]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T06:11:08.582927Z my-server sshd[18764]: ERROR: Failed to start MySQL service.
+2024-10-02T06:11:10.582927Z my-server kernel[30011]: NOTICE: User login successful.
+2024-10-02T06:13:34.582927Z my-server systemd[46484]: WARNING: High memory usage detected: 95% used.
+2024-10-02T06:15:58.582927Z my-server kernel[14984]: NOTICE: Network interface eth0 brought up.
+2024-10-02T06:20:56.582927Z my-server systemd[9461]: ERROR: Critical system service crashed.
+2024-10-02T06:22:44.582927Z my-server kernel[35195]: ERROR: Failed to mount NFS share.
+2024-10-02T06:23:47.582927Z my-server sshd[38489]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T06:25:10.582927Z my-server kernel[42514]: WARNING: High memory usage detected: 95% used.
+2024-10-02T06:25:12.582927Z my-server kernel[18968]: ERROR: Critical system service crashed.
+2024-10-02T06:25:23.582927Z my-server systemd[17480]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T06:26:24.582927Z my-server systemd[9109]: WARNING: Low available disk space on /home partition.
+2024-10-02T06:30:56.582927Z my-server systemd[18183]: ERROR: Database connection failed.
+2024-10-02T06:35:32.582927Z my-server kernel[49160]: ERROR: Critical system service crashed.
+2024-10-02T06:39:04.582927Z my-server apache2[24524]: ERROR: Failed to start MySQL service.
+2024-10-02T06:43:32.582927Z my-server sshd[23757]: NOTICE: Configuration file loaded successfully.
+2024-10-02T06:44:07.582927Z my-server apache2[8493]: WARNING: Low available disk space on /home partition.
+2024-10-02T06:44:50.582927Z my-server kernel[6060]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T06:46:28.582927Z my-server systemd[39471]: ERROR: Failed to mount NFS share.
+2024-10-02T06:48:57.582927Z my-server sshd[28887]: ERROR: Critical system service crashed.
+2024-10-02T06:52:37.582927Z my-server sshd[24000]: WARNING: High memory usage detected: 95% used.
+2024-10-02T06:55:32.582927Z my-server apache2[39284]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T06:56:17.582927Z my-server mysql[20141]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T06:59:07.582927Z my-server kernel[12443]: ERROR: Failed to start MySQL service.
+2024-10-02T07:01:35.582927Z my-server sshd[44498]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T07:05:25.582927Z my-server sshd[34019]: ERROR: Failed to start MySQL service.
+2024-10-02T07:09:15.582927Z my-server kernel[9972]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T07:14:07.582927Z my-server systemd[30961]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T07:17:42.582927Z my-server kernel[13901]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T07:21:57.582927Z my-server mysql[46556]: WARNING: High memory usage detected: 95% used.
+2024-10-02T07:23:42.582927Z my-server sshd[12001]: ERROR: Database connection failed.
+2024-10-02T07:25:13.582927Z my-server apache2[3617]: NOTICE: Configuration file loaded successfully.
+2024-10-02T07:26:15.582927Z my-server systemd[25522]: WARNING: High memory usage detected: 95% used.
+2024-10-02T07:26:26.582927Z my-server sshd[43752]: NOTICE: Network interface eth0 brought up.
+2024-10-02T07:27:23.582927Z my-server kernel[15741]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T07:31:32.582927Z my-server apache2[26493]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T07:32:47.582927Z my-server sshd[32690]: ERROR: Critical system service crashed.
+2024-10-02T07:35:27.582927Z my-server sshd[49916]: NOTICE: Configuration file loaded successfully.
+2024-10-02T07:35:31.582927Z my-server apache2[38514]: ERROR: Database connection failed.
+2024-10-02T07:39:16.582927Z my-server sshd[29615]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T07:43:55.582927Z my-server sshd[47132]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T07:48:23.582927Z my-server sshd[18631]: WARNING: High memory usage detected: 95% used.
+2024-10-02T07:49:30.582927Z my-server systemd[29139]: ERROR: Critical system service crashed.
+2024-10-02T07:53:23.582927Z my-server sshd[26144]: NOTICE: System health check passed.
+2024-10-02T07:57:58.582927Z my-server kernel[29178]: ERROR: Failed to start MySQL service.
+2024-10-02T07:58:27.582927Z my-server mysql[43738]: NOTICE: User login successful.
+2024-10-02T08:03:15.582927Z my-server sshd[4524]: WARNING: Low available disk space on /home partition.
+2024-10-02T08:04:17.582927Z my-server kernel[21865]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T08:08:10.582927Z my-server systemd[23627]: NOTICE: Configuration file loaded successfully.
+2024-10-02T08:10:12.582927Z my-server kernel[12530]: ERROR: Critical system service crashed.
+2024-10-02T08:13:59.582927Z my-server sshd[8684]: ERROR: Database connection failed.
+2024-10-02T08:15:28.582927Z my-server mysql[24312]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T08:18:18.582927Z my-server systemd[19453]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T08:20:00.582927Z my-server mysql[2267]: ERROR: Critical system service crashed.
+2024-10-02T08:22:59.582927Z my-server kernel[43344]: NOTICE: User login successful.
+2024-10-02T08:24:11.582927Z my-server mysql[48273]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T08:24:41.582927Z my-server systemd[21402]: ERROR: Failed to mount NFS share.
+2024-10-02T08:28:36.582927Z my-server kernel[33500]: ERROR: Database connection failed.
+2024-10-02T08:30:53.582927Z my-server apache2[15861]: ERROR: Database connection failed.
+2024-10-02T08:34:10.582927Z my-server apache2[25530]: WARNING: Low available disk space on /home partition.
+2024-10-02T08:36:14.582927Z my-server kernel[42919]: NOTICE: System health check passed.
+2024-10-02T08:36:19.582927Z my-server mysql[40423]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T08:40:56.582927Z my-server sshd[25616]: NOTICE: User login successful.
+2024-10-02T08:44:38.582927Z my-server mysql[45196]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T08:48:45.582927Z my-server systemd[4950]: WARNING: High memory usage detected: 95% used.
+2024-10-02T08:51:06.582927Z my-server systemd[5007]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T08:54:31.582927Z my-server mysql[12235]: ERROR: Critical system service crashed.
+2024-10-02T08:55:44.582927Z my-server kernel[2572]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T08:59:21.582927Z my-server kernel[31012]: NOTICE: Network interface eth0 brought up.
+2024-10-02T09:00:53.582927Z my-server sshd[38567]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T09:04:38.582927Z my-server sshd[33248]: NOTICE: System health check passed.
+2024-10-02T09:05:40.582927Z my-server systemd[42489]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T09:06:14.582927Z my-server kernel[1162]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T09:08:22.582927Z my-server systemd[21441]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T09:11:58.582927Z my-server systemd[3934]: ERROR: Failed to start MySQL service.
+2024-10-02T09:14:04.582927Z my-server systemd[5161]: ERROR: Database connection failed.
+2024-10-02T09:15:31.582927Z my-server systemd[17500]: ERROR: Failed to start MySQL service.
+2024-10-02T09:16:52.582927Z my-server mysql[38898]: ERROR: Database connection failed.
+2024-10-02T09:18:30.582927Z my-server sshd[30299]: WARNING: High memory usage detected: 95% used.
+2024-10-02T09:18:44.582927Z my-server mysql[23088]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T09:20:31.582927Z my-server systemd[20245]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T09:21:21.582927Z my-server systemd[23244]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T09:24:32.582927Z my-server mysql[8856]: ERROR: Failed to mount NFS share.
+2024-10-02T09:27:34.582927Z my-server mysql[6254]: NOTICE: Network interface eth0 brought up.
+2024-10-02T09:32:24.582927Z my-server apache2[11120]: ERROR: Critical system service crashed.
+2024-10-02T09:33:20.582927Z my-server sshd[6421]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T09:37:48.582927Z my-server sshd[11276]: NOTICE: User login successful.
+2024-10-02T09:40:08.582927Z my-server apache2[46305]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T09:42:32.582927Z my-server systemd[26147]: ERROR: Failed to start MySQL service.
+2024-10-02T09:45:32.582927Z my-server mysql[24685]: NOTICE: Network interface eth0 brought up.
+2024-10-02T09:50:02.582927Z my-server kernel[11422]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T09:54:22.582927Z my-server sshd[10892]: NOTICE: Configuration file loaded successfully.
+2024-10-02T09:58:33.582927Z my-server kernel[27172]: NOTICE: Configuration file loaded successfully.
+2024-10-02T10:02:14.582927Z my-server sshd[43961]: WARNING: Low available disk space on /home partition.
+2024-10-02T10:03:32.582927Z my-server apache2[30211]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T10:07:42.582927Z my-server sshd[36406]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T10:11:58.582927Z my-server mysql[46588]: NOTICE: Network interface eth0 brought up.
+2024-10-02T10:16:15.582927Z my-server mysql[33486]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T10:18:27.582927Z my-server sshd[33311]: WARNING: High memory usage detected: 95% used.
+2024-10-02T10:23:23.582927Z my-server mysql[23542]: NOTICE: User login successful.
+2024-10-02T10:24:12.582927Z my-server sshd[35939]: ERROR: Failed to mount NFS share.
+2024-10-02T10:25:25.582927Z my-server sshd[14728]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T10:28:28.582927Z my-server sshd[27103]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T10:31:13.582927Z my-server apache2[18224]: ERROR: Failed to mount NFS share.
+2024-10-02T10:34:23.582927Z my-server apache2[41546]: NOTICE: System health check passed.
+2024-10-02T10:38:24.582927Z my-server apache2[25041]: ERROR: Database connection failed.
+2024-10-02T10:39:58.582927Z my-server mysql[35036]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T10:43:21.582927Z my-server mysql[41699]: NOTICE: System health check passed.
+2024-10-02T10:45:53.582927Z my-server kernel[23707]: NOTICE: System health check passed.
+2024-10-02T10:50:15.582927Z my-server kernel[47189]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T10:52:42.582927Z my-server mysql[7406]: ERROR: Failed to start MySQL service.
+2024-10-02T10:53:51.582927Z my-server mysql[44020]: ERROR: Database connection failed.
+2024-10-02T10:58:16.582927Z my-server kernel[31928]: ERROR: Critical system service crashed.
+2024-10-02T10:59:32.582927Z my-server mysql[40743]: ERROR: Database connection failed.
+2024-10-02T11:01:57.582927Z my-server mysql[24877]: ERROR: Database connection failed.
+2024-10-02T11:02:40.582927Z my-server apache2[44949]: ERROR: Failed to start MySQL service.
+2024-10-02T11:06:09.582927Z my-server apache2[22833]: ERROR: Critical system service crashed.
+2024-10-02T11:09:10.582927Z my-server kernel[9100]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T11:10:56.582927Z my-server apache2[40652]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T11:12:10.582927Z my-server systemd[39645]: NOTICE: User login successful.
+2024-10-02T11:12:58.582927Z my-server systemd[15228]: NOTICE: System health check passed.
+2024-10-02T11:16:26.582927Z my-server systemd[10868]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T11:20:08.582927Z my-server mysql[31399]: NOTICE: System health check passed.
+2024-10-02T11:21:07.582927Z my-server apache2[42533]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T11:25:11.582927Z my-server apache2[37279]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T11:29:48.582927Z my-server mysql[46356]: WARNING: Low available disk space on /home partition.
+2024-10-02T11:31:56.582927Z my-server systemd[22843]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T11:34:02.582927Z my-server apache2[10174]: ERROR: Failed to start MySQL service.
+2024-10-02T11:35:48.582927Z my-server systemd[12242]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T11:38:40.582927Z my-server mysql[18772]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T11:41:45.582927Z my-server mysql[42614]: ERROR: Failed to start MySQL service.
+2024-10-02T11:41:52.582927Z my-server mysql[33173]: WARNING: High memory usage detected: 95% used.
+2024-10-02T11:45:04.582927Z my-server mysql[23800]: NOTICE: Service apache2 restarted successfully.
+2024-10-02T11:49:18.582927Z my-server apache2[36884]: WARNING: Low available disk space on /home partition.
+2024-10-02T11:52:13.582927Z my-server mysql[35706]: NOTICE: System health check passed.
+2024-10-02T11:55:38.582927Z my-server apache2[28515]: ERROR: Failed to mount NFS share.
+2024-10-02T11:56:46.582927Z my-server mysql[2120]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T12:01:14.582927Z my-server sshd[8422]: WARNING: Low available disk space on /home partition.
+2024-10-02T12:04:38.582927Z my-server systemd[49715]: ERROR: Failed to mount NFS share.
+2024-10-02T12:07:21.582927Z my-server kernel[16151]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T12:12:20.582927Z my-server apache2[21527]: WARNING: Disk usage on /dev/sda1 exceeds 90%.
+2024-10-02T12:13:26.582927Z my-server sshd[10183]: WARNING: High memory usage detected: 95% used.
+2024-10-02T12:15:50.582927Z my-server kernel[6583]: WARNING: CPU temperature exceeded threshold: 85°C.
+2024-10-02T12:18:11.582927Z my-server systemd[25336]: ERROR: Failed to start MySQL service.
+2024-10-02T12:19:27.582927Z my-server kernel[10295]: NOTICE: Configuration file loaded successfully.
+2024-10-02T12:23:33.582927Z my-server mysql[36695]: NOTICE: Network interface eth0 brought up.
+2024-10-02T12:26:38.582927Z my-server apache2[45745]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T12:30:11.582927Z my-server systemd[38544]: NOTICE: User login successful.
+2024-10-02T12:34:10.582927Z my-server kernel[5431]: ERROR: Critical system service crashed.
+2024-10-02T12:34:17.582927Z my-server systemd[4920]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T12:37:20.582927Z my-server apache2[28047]: ERROR: Failed password for root from 192.168.0.123 port 54217 ssh2.
+2024-10-02T12:38:20.582927Z my-server apache2[14489]: WARNING: Disk read/write latency above normal levels.
+2024-10-02T12:40:13.582927Z my-server mysql[16826]: NOTICE: Network interface eth0 brought up.
+2024-10-02T12:40:31.582927Z my-server systemd[15206]: WARNING: Low available disk space on /home partition.
+2024-10-02T12:44:57.582927Z my-server kernel[26322]: WARNING: Low available disk space on /home partition.
+2024-10-02T12:45:39.582927Z my-server kernel[41716]: ERROR: Critical system service crashed.
+                   .582927Z
