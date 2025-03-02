@@ -1,0 +1,752 @@
+[
+    {
+        "Gemeinde": "Andau",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7163,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2333,
+        "Fläche": 47.31,
+        "Ortschaften": "Andau"
+    },
+    {
+        "Gemeinde": "Antau",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7042,
+        "Politischer Bezirk": "Mattersburg",
+        "Bundesland": "Burgenland",
+        "Einwohner": 763,
+        "Fläche": 8.75,
+        "Ortschaften": "Antau"
+    },
+    {
+        "Gemeinde": "Apetlon",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7132,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1774,
+        "Fläche": 82.21,
+        "Ortschaften": "Apetlon"
+    },
+    {
+        "Gemeinde": "Bad Sauerbrunn",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7202,
+        "Politischer Bezirk": "Mattersburg",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2158,
+        "Fläche": 2.35,
+        "Ortschaften": "Bad Sauerbrunn"
+    },
+    {
+        "Gemeinde": "Bad Tatzmannsdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7431,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1483,
+        "Fläche": 11.62,
+        "Ortschaften": "Bad Tatzmannsdorf, Jormannsdorf, Sulzriegel"
+    },
+    {
+        "Gemeinde": "Badersdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7512,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 293,
+        "Fläche": 8.64,
+        "Ortschaften": "Badersdorf"
+    },
+    {
+        "Gemeinde": "Baumgarten",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7021,
+        "Politischer Bezirk": "Mattersburg",
+        "Bundesland": "Burgenland",
+        "Einwohner": 873,
+        "Fläche": 6.96,
+        "Ortschaften": "Baumgarten"
+    },
+    {
+        "Gemeinde": "Bernstein",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 2852,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2186,
+        "Fläche": 38.99,
+        "Ortschaften": "Bernstein, Dreihütten, Redlschlag, Rettenbach, Stuben"
+    },
+    {
+        "Gemeinde": "Bildein",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7521,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 340,
+        "Fläche": 16.02,
+        "Ortschaften": "Oberbildein, Unterbildein"
+    },
+    {
+        "Gemeinde": "Bocksdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7551,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 805,
+        "Fläche": 9.99,
+        "Ortschaften": "Bocksdorf"
+    },
+    {
+        "Gemeinde": "Breitenbrunn am Neusiedler See",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7091,
+        "Politischer Bezirk": "Eisenstadt-Umgebung",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1910,
+        "Fläche": 25.75,
+        "Ortschaften": "Breitenbrunn am Neusiedler See"
+    },
+    {
+        "Gemeinde": "Bruckneudorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 2460,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2956,
+        "Fläche": 36.70,
+        "Ortschaften": "Bruckneudorf, Kaisersteinbruch, Königshof"
+    },
+    {
+        "Gemeinde": "Burgauberg-Neudauberg",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7574,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1382,
+        "Fläche": 10.91,
+        "Ortschaften": "Burgauberg, Neudauberg"
+    },
+    {
+        "Gemeinde": "Deutsch Jahrndorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 2423,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 606,
+        "Fläche": 27.43,
+        "Ortschaften": "Deutsch Jahrndorf"
+    },
+    {
+        "Gemeinde": "Deutsch Kaltenbrunn",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7572,
+        "Politischer Bezirk": "Jennersdorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1699,
+        "Fläche": 24.19,
+        "Ortschaften": "Deutsch Kaltenbrunn, Rohrbrunn"
+    },
+    {
+        "Gemeinde": "Deutsch Schützen-Eisenberg",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7474,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1127,
+        "Fläche": 28.47,
+        "Ortschaften": "Deutsch-Schützen, Edlitz im Burgenland, Eisenberg an der Pinka, Höll, Sankt Kathrein im Burgenland"
+    },
+    {
+        "Gemeinde": "Deutschkreutz",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7301,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 3121,
+        "Fläche": 34.11,
+        "Ortschaften": "Deutschkreutz, Girm"
+    },
+    {
+        "Gemeinde": "Donnerskirchen",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7082,
+        "Politischer Bezirk": "Eisenstadt-Umgebung",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1739,
+        "Fläche": 33.87,
+        "Ortschaften": "Donnerskirchen"
+    },
+    {
+        "Gemeinde": "Draßburg",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7021,
+        "Politischer Bezirk": "Mattersburg",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1193,
+        "Fläche": 9.68,
+        "Ortschaften": "Draßburg"
+    },
+    {
+        "Gemeinde": "Draßmarkt",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7371,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1411,
+        "Fläche": 36.23,
+        "Ortschaften": "Draßmarkt, Karl, Oberrabnitz"
+    },
+    {
+        "Gemeinde": "Eberau",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7521,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 928,
+        "Fläche": 30.75,
+        "Ortschaften": "Eberau, Gaas, Kroatisch Ehrensdorf, Kulm im Burgenland, Winten"
+    },
+    {
+        "Gemeinde": "Edelstal",
+        "Art": "Gemeinde",
+        "Postleitzahl": 2413,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 674,
+        "Fläche": 5.89,
+        "Ortschaften": "Edelstal"
+    },
+    {
+        "Gemeinde": "Eisenstadt",
+        "Art": "Statutarstadt",
+        "Postleitzahl": 7000,
+        "Politischer Bezirk": "Eisenstadt (Stadt)",
+        "Bundesland": "Burgenland",
+        "Einwohner": 13664,
+        "Fläche": 42.91,
+        "Ortschaften": "Eisenstadt, Kleinhöflein im Burgenland, Sankt Georgen am Leithagebirge"
+    },
+    {
+        "Gemeinde": "Eltendorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7562,
+        "Politischer Bezirk": "Jennersdorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 952,
+        "Fläche": 20.58,
+        "Ortschaften": "Eltendorf, Zahling"
+    },
+    {
+        "Gemeinde": "Forchtenstein",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7212,
+        "Politischer Bezirk": "Mattersburg",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2781,
+        "Fläche": 16.59,
+        "Ortschaften": "Forchtenstein"
+    },
+    {
+        "Gemeinde": "Frankenau-Unterpullendorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7361,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1133,
+        "Fläche": 29.95,
+        "Ortschaften": "Frankenau, Großmutschen, Kleinmutschen, Unterpullendorf"
+    },
+    {
+        "Gemeinde": "Frauenkirchen",
+        "Art": "Stadt",
+        "Postleitzahl": 7132,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2831,
+        "Fläche": 31.95,
+        "Ortschaften": "Frauenkirchen"
+    },
+    {
+        "Gemeinde": "Gattendorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 2474,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1280,
+        "Fläche": 25.12,
+        "Ortschaften": "Gattendorf"
+    },
+    {
+        "Gemeinde": "Gerersdorf-Sulz",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7540,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1018,
+        "Fläche": 21.63,
+        "Ortschaften": "Gerersdorf bei Güssing, Rehgraben, Sulz im Burgenland"
+    },
+    {
+        "Gemeinde": "Gols",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7122,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 3772,
+        "Fläche": 42.23,
+        "Ortschaften": "Gols"
+    },
+    {
+        "Gemeinde": "Grafenschachen",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7423,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1264,
+        "Fläche": 9.94,
+        "Ortschaften": "Grafenschachen, Kroisegg"
+    },
+    {
+        "Gemeinde": "Großhöflein",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7051,
+        "Politischer Bezirk": "Eisenstadt-Umgebung",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2048,
+        "Fläche": 14.25,
+        "Ortschaften": "Großhöflein"
+    },
+    {
+        "Gemeinde": "Großmürbisch",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7540,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 248,
+        "Fläche": 7.92,
+        "Ortschaften": "Großmürbisch"
+    },
+    {
+        "Gemeinde": "Großpetersdorf",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7503,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 3498,
+        "Fläche": 31.36,
+        "Ortschaften": "Großpetersdorf, Kleinpetersdorf, Kleinzicken, Miedlingsdorf, Welgersdorf"
+    },
+    {
+        "Gemeinde": "Großwarasdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7304,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1416,
+        "Fläche": 42.51,
+        "Ortschaften": "Großwarasdorf, Kleinwarasdorf, Langental, Nebersdorf"
+    },
+    {
+        "Gemeinde": "Güssing",
+        "Art": "Stadt",
+        "Postleitzahl": 7540,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 3713,
+        "Fläche": 49.31,
+        "Ortschaften": "Glasing, Güssing, Krottendorf, Sankt Nikolaus, Steingraben, Urbersdorf"
+    },
+    {
+        "Gemeinde": "Güttenbach",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7536,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 914,
+        "Fläche": 15.90,
+        "Ortschaften": "Güttenbach"
+    },
+    {
+        "Gemeinde": "Hackerberg",
+        "Art": "Gemeinde",
+        "Postleitzahl": 8292,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 359,
+        "Fläche": 3.87,
+        "Ortschaften": "Hackerberg"
+    },
+    {
+        "Gemeinde": "Halbturn",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7131,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1881,
+        "Fläche": 55.20,
+        "Ortschaften": "Halbturn"
+    },
+    {
+        "Gemeinde": "Hannersdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7473,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 769,
+        "Fläche": 17.12,
+        "Ortschaften": "Burg, Hannersdorf, Woppendorf"
+    },
+    {
+        "Gemeinde": "Heiligenbrunn",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7522,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 814,
+        "Fläche": 33.51,
+        "Ortschaften": "Deutsch Bieling, Hagensdorf im Burgenland, Heiligenbrunn, Luising, Reinersdorf"
+    },
+    {
+        "Gemeinde": "Heiligenkreuz im Lafnitztal",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7561,
+        "Politischer Bezirk": "Jennersdorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1236,
+        "Fläche": 23.78,
+        "Ortschaften": "Heiligenkreuz im Lafnitztal, Poppendorf im Burgenland"
+    },
+    {
+        "Gemeinde": "Heugraben",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7551,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 208,
+        "Fläche": 6.47,
+        "Ortschaften": "Heugraben"
+    },
+    {
+        "Gemeinde": "Hirm",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7024,
+        "Politischer Bezirk": "Mattersburg",
+        "Bundesland": "Burgenland",
+        "Einwohner": 956,
+        "Fläche": 3.12,
+        "Ortschaften": "Hirm"
+    },
+    {
+        "Gemeinde": "Horitschon",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7312,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1924,
+        "Fläche": 18.72,
+        "Ortschaften": "Horitschon, Unterpetersdorf"
+    },
+    {
+        "Gemeinde": "Hornstein",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 2491,
+        "Politischer Bezirk": "Eisenstadt-Umgebung",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2859,
+        "Fläche": 37.07,
+        "Ortschaften": "Hornstein"
+    },
+    {
+        "Gemeinde": "Illmitz",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7142,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2351,
+        "Fläche": 91.85,
+        "Ortschaften": "Illmitz"
+    },
+    {
+        "Gemeinde": "Inzenhof",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7540,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 340,
+        "Fläche": 5.97,
+        "Ortschaften": "Inzenhof"
+    },
+    {
+        "Gemeinde": "Jabing",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7503,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 746,
+        "Fläche": 7.78,
+        "Ortschaften": "Jabing"
+    },
+    {
+        "Gemeinde": "Jennersdorf",
+        "Art": "Stadt",
+        "Postleitzahl": 8282,
+        "Politischer Bezirk": "Jennersdorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 4078,
+        "Fläche": 37.92,
+        "Ortschaften": "Grieselstein, Henndorf im Burgenland, Jennersdorf, Rax"
+    },
+    {
+        "Gemeinde": "Jois",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7093,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1526,
+        "Fläche": 25.90,
+        "Ortschaften": "Jois"
+    },
+    {
+        "Gemeinde": "Kaisersdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7342,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 631,
+        "Fläche": 12.51,
+        "Ortschaften": "Kaisersdorf"
+    },
+    {
+        "Gemeinde": "Kemeten",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7531,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1485,
+        "Fläche": 20.67,
+        "Ortschaften": "Kemeten"
+    },
+    {
+        "Gemeinde": "Kittsee",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 2421,
+        "Politischer Bezirk": "Neusiedl am See",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2872,
+        "Fläche": 19.26,
+        "Ortschaften": "Kittsee"
+    },
+    {
+        "Gemeinde": "Kleinmürbisch",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7540,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 244,
+        "Fläche": 4.29,
+        "Ortschaften": "Kleinmürbisch"
+    },
+    {
+        "Gemeinde": "Klingenbach",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7013,
+        "Politischer Bezirk": "Eisenstadt-Umgebung",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1177,
+        "Fläche": 4.82,
+        "Ortschaften": "Klingenbach"
+    },
+    {
+        "Gemeinde": "Kobersdorf",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7332,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1910,
+        "Fläche": 27.30,
+        "Ortschaften": "Kobersdorf, Lindgraben, Oberpetersdorf"
+    },
+    {
+        "Gemeinde": "Kohfidisch",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7512,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1437,
+        "Fläche": 31.34,
+        "Ortschaften": "Harmisch, Kirchfidisch, Kohfidisch"
+    },
+    {
+        "Gemeinde": "Königsdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7563,
+        "Politischer Bezirk": "Jennersdorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 720,
+        "Fläche": 15.67,
+        "Ortschaften": "Königsdorf"
+    },
+    {
+        "Gemeinde": "Krensdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7031,
+        "Politischer Bezirk": "Mattersburg",
+        "Bundesland": "Burgenland",
+        "Einwohner": 613,
+        "Fläche": 7.79,
+        "Ortschaften": "Krensdorf"
+    },
+    {
+        "Gemeinde": "Kukmirn",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7543,
+        "Politischer Bezirk": "Güssing",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2029,
+        "Fläche": 40.50,
+        "Ortschaften": "Eisenhüttl, Kukmirn, Limbach, Neusiedl"
+    },
+    {
+        "Gemeinde": "Lackenbach",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7322,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1147,
+        "Fläche": 18.11,
+        "Ortschaften": "Lackenbach"
+    },
+    {
+        "Gemeinde": "Lackendorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7321,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 572,
+        "Fläche": 12.71,
+        "Ortschaften": "Lackendorf"
+    },
+    {
+        "Gemeinde": "Leithaprodersdorf",
+        "Art": "Gemeinde",
+        "Postleitzahl": 2443,
+        "Politischer Bezirk": "Eisenstadt-Umgebung",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1173,
+        "Fläche": 18.95,
+        "Ortschaften": "Leithaprodersdorf"
+    },
+    {
+        "Gemeinde": "Litzelsdorf",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7532,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1149,
+        "Fläche": 13.88,
+        "Ortschaften": "Litzelsdorf"
+    },
+    {
+        "Gemeinde": "Lockenhaus",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7442,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 2019,
+        "Fläche": 58.86,
+        "Ortschaften": "Glashütten bei Langeck im Burgenland, Hammerteich, Hochstraß, Langeck im Burgenland, Lockenhaus"
+    },
+    {
+        "Gemeinde": "Loipersbach im Burgenland",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7020,
+        "Politischer Bezirk": "Mattersburg",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1221,
+        "Fläche": 8.55,
+        "Ortschaften": "Loipersbach im Burgenland"
+    },
+    {
+        "Gemeinde": "Loipersdorf-Kitzladen",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7410,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1278,
+        "Fläche": 15.88,
+        "Ortschaften": "Kitzladen, Loipersdorf im Burgenland"
+    },
+    {
+        "Gemeinde": "Loretto",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 2443,
+        "Politischer Bezirk": "Eisenstadt-Umgebung",
+        "Bundesland": "Burgenland",
+        "Einwohner": 467,
+        "Fläche": 2.38,
+        "Ortschaften": "Loretto"
+    },
+    {
+        "Gemeinde": "Lutzmannsburg",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7361,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 865,
+        "Fläche": 23.18,
+        "Ortschaften": "Lutzmannsburg, Strebersdorf"
+    },
+    {
+        "Gemeinde": "Mannersdorf an der Rabnitz",
+        "Art": "Gemeinde",
+        "Postleitzahl": 7443,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1796,
+        "Fläche": 38.42,
+        "Ortschaften": "Klostermarienberg, Liebing, Mannersdorf an der Rabnitz, Rattersdorf, Unterloisdorf"
+    },
+    {
+        "Gemeinde": "Mariasdorf",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7433,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1160,
+        "Fläche": 20.54,
+        "Ortschaften": "Bergwerk, Grodnau, Mariasdorf, Neustift bei Schlaining, Tauchen"
+    },
+    {
+        "Gemeinde": "Markt Allhau",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7411,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1877,
+        "Fläche": 32.31,
+        "Ortschaften": "Buchschachen, Markt Allhau"
+    },
+    {
+        "Gemeinde": "Markt Neuhodis",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 7464,
+        "Politischer Bezirk": "Oberwart",
+        "Bundesland": "Burgenland",
+        "Einwohner": 642,
+        "Fläche": 19.95,
+        "Ortschaften": "Althodis, Markt Neuhodis"
+    },
+    {
+        "Gemeinde": "Markt Sankt Martin",
+        "Art": "Marktgemeinde",
+        "Postleitzahl": 2812,
+        "Politischer Bezirk": "Oberpullendorf",
+        "Bundesland": "Burgenland",
+        "Einwohner": 1162,
+        "Fläche": 32.11,
+        "Ortschaften": "Landsee, Markt Sankt Martin, Neudorf bei Landsee"
+    }
+]
